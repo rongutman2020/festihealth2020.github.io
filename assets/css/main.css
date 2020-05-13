@@ -1,0 +1,588 @@
+ol, ul {
+    list-style: none;
+}
+
+.header .headerBar .logo a {
+    display: block;
+    padding: 8px 0;
+    width: 152px;
+}
+
+.header .headerBar {
+    background: #fff;
+    height: 64px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+#logo {
+    margin: 40px auto
+}
+
+.overlayContent p b {
+    font-size: 14pt;
+}
+
+.hero1 {
+    background-image: url('../images/hero-background@svg.svg');
+    background-size: contain;
+    background-position-x: 40px;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 50px;
+}
+
+
+.celebrate {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+#about {
+    background-image: url('../images/Why\ now-bg@svg.svg');
+    background-size: 130%;
+    background-position-x: -200px;
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+    max-width: none;
+}
+
+.why-now {
+    text-align: left;
+}
+
+.why-now h1 {
+    margin: 0 auto;
+    max-width: 500px;
+    font-size: 20pt;
+}
+
+.why-now p {
+    margin: 20px auto;
+    max-width: 500px;
+    line-height: 1.5;
+    font-size: 12pt;
+}
+
+.content-footer {
+    height: 40px;
+}
+
+.headline {
+    font-size: 1.6666666269302368rem;
+    font-family: Zapfino;
+    font-weight: 700;
+    font-variant-ligatures: normal;
+    font-variant-east-asian: normal;
+    vertical-align: baseline;
+    white-space: pre-wrap;
+}
+
+.why-now.h1 {
+    text-align: left;
+}
+
+.anchor {
+    padding-top: 64px;
+}
+
+.signmeup .anchor {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 0px;
+    padding-top: 40px;
+}
+
+.join-us {
+    display: flex;
+    width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.join-us .left {
+    max-width: 400px;
+    height: 340px;
+    display: block;
+    float: left;
+    margin-top: 230px;
+}
+
+.right {
+    float: right;
+    display: flex;
+}
+.join-us .listContainer {
+    height: auto;
+    max-width: 400px;
+    float: right;
+}
+
+.checklist {
+    padding: 14px 0px;
+}
+
+.listContainer {
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+    border-spacing: 4px 20px
+}
+
+.listContainer .checklist .checkmark {
+    background: url(../images/checkmark.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+.listContainer .checklist .checktext {
+    font-size: 12pt;
+    margin-left: 4px;
+    vertical-align: middle;
+    line-height: 1.5;
+}
+
+.join-us .left h1 {
+    font-size: 20pt;
+}
+
+.header .headerBar .container>div {
+    position: relative;
+}
+
+
+.homePage .heroImage .heroBg {
+    height: 550px;
+    width: 80%;
+    margin: auto;
+}
+.heroImage .heroBg {
+    background-size: cover;
+    background-position: 50%;
+}
+
+.homePage .heroImage .heroBg:before {
+    background: url(../images/Hero-Image@2x.png) 100% bottom no-repeat;
+    background-size: contain;
+    background-position: center;
+    content: "";
+    display: block;
+    height: 500px;
+}
+
+.homePage .heroImage .heroBg2 {
+    height: 500px;
+    margin: 40px 10px;
+}
+
+.homePage .heroImage .heroBg2:before {
+    background: url(../images/map.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+    content: "";
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+
+.heroImage.discussion {
+    margin: auto auto -5px auto;
+}
+
+.heroImage.doggie {
+    margin: auto auto -5px auto;
+}
+
+
+.homePage .heroImage .heroBg3 {
+    height: auto;
+    width: 100%;
+    margin: 40px auto 0px auto;
+}
+
+.homePage .heroImage .heroBg4 {
+    height: auto;
+    width: 100%;
+    margin: 20pt auto 0 auto;
+}
+
+.homePage .signmeup h1 {
+    max-width: 500px;
+    text-align: left;
+    margin: auto
+}
+
+.homePage .signmeup p {
+    max-width: 500px;
+    margin: 40px auto auto auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.homePage .signmeup {
+    margin: 0 auto;
+    background: url(../images/sponsors-graphic@svg.svg);
+    background-size: 140%;
+    background-position-x: -120px;
+    background-position-y: -120px;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.homePage .heroImage .heroBg6 {
+    height: auto;
+    width: 100%;
+    margin: 40px auto 0px auto;
+}
+
+.heroImag.townhall {
+    height: 500px;
+}
+
+.heroImage {
+    position: relative;
+    margin: auto;
+}
+
+.pageLayout #content {
+    padding-top: 64px;
+    min-height: calc(100vh - 421px);
+}
+
+.cta {
+  margin: 10px auto;
+}
+
+@media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all
+.homePage .valueProps .peaceOfMind .image {
+    background-image: url(../images/festihealth.png);
+    background-size: contain;
+}
+
+.image {
+    background-image: url(../images/festihealth.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: cover;*/
+}
+
+.container > .image {
+    /*background: transparent 0 0 no-repeat;*/
+    height: 140px;
+    width: 400px;
+    display: inline-block;
+}
+
+.btn.btnWhite {
+    background: #fff;
+    color: #000;
+    color: black;
+}
+
+.blackTitle {
+    color: black;
+    font-weight: 550;
+}
+
+.btn {
+    border-radius: 22px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: gilroy,noto,sans-serif;
+    font-size: 12pt;
+    font-weight: 400;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 24px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.btn.btnBlue {
+    background: #27D158;
+    color: #fff;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    -webkit-text-decoration-skip: objects;
+}
+
+.header .headerBar .links {
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+}
+
+.header .headerBar .logo a div {
+    background: url(../images/logo.png) 0 0 no-repeat;
+    background-size: 70%;
+    background-position: center;
+    height: 48px;
+    width: 152px;
+}
+
+.header .headerBar .links nav>ul>li {
+    display: inline-block;
+    padding: 0 5px;
+    vertical-align: middle;
+}
+
+.greenDot {
+    color: #27D158;
+}
+.subtitle {
+    font-size: 20pt;
+    padding: 0 0px;
+}
+
+.header .headerBar .links nav>ul>li>a {
+    color: #2ca04e;
+    display: block;
+    font-weight: 350;
+}
+
+.header a {
+    color: #000;
+}
+
+body {
+    font-family: noto, sans-serif;
+    font-size: 12pt;
+    margin: 0px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+.header .headerBar .hamburger {
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    top: 14px;
+    right: 0;
+    color: #2ca04e;
+}
+
+.show-more {
+  color: #2ca04e;
+}
+
+#more {
+  display: none;
+}
+
+.header .headerBar .hamburger div {
+    /*background: url(../images/checkmark.png) 0 0 no-repeat;*/
+    height: 36px;
+    width: 36px;
+}
+
+#menuLink {
+  color: #2ca04e;
+}
+
+.header .hamburgerMenu {
+  display: none;
+}
+
+.footer {
+  margin: 15px auto;
+  font-size: 12px;
+}
+
+@media only screen and (max-width : 500px) {
+ .join-us#contact {
+    display: block;
+    /*padding-top: 40px;*/
+  }
+
+  .join-us .left#leftContainer {
+    max-width: 100%;
+    height: 100%;
+    float: inherit;
+    line-height: inherit;
+    margin-top: 0px;
+  }
+
+  .anchor>.listContainer {
+    max-width: inherit;
+  }
+
+  .signmeup#sponsors {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .why-now#about {
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .homePage .signmeup p {
+    max-width: inherit;
+  }
+
+  #content .join-us#contact {
+    width: 100%;
+  }
+
+  .why-now p {
+    font-size: 12pt;
+    width: 100%;
+    max-width: inherit;
+  }
+
+  .join-us#contact {
+    max-width: inherit;
+    margin: inherit;
+  }
+
+  .celebrate {
+    max-width: 290px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+.header .hamburgerMenu {
+    background: #fff;
+    display: none;
+    left: 0;
+    overflow: auto;
+    position: fixed;
+    top: 64px;
+    width: 100%;
+    z-index: 2;
+}
+
+
+.header .hamburgerMenu.open, .header .headerBar .hamburger {
+    display: block;
+    font-size: 23pt;
+}
+
+.header .hamburgerMenu ul>li>a {
+  color: #2ca04e;
+  font-size: 15pt;
+}
+
+.header .hamburgerMenu ul>li {
+  margin: 15px auto;
+}
+
+.header .hamburgerMenu ul {
+  padding: 0;
+}
+
+.header .headerBar .links {
+    display: none;
+}
+  #about {
+    background-image: url('../images/Why\ now-bg@svg.svg');
+    background-size: 120%;
+    background-position-x: -50px;
+    background-position-y: -20px;
+    background-repeat: no-repeat;
+    max-width: none;
+  }
+
+  .join-us .right .listContainer#contact-us-table {
+    max-width: 90%;
+    margin: 10px auto;
+  }
+
+  #content table tbody tr.checklist td.checktext {
+    font-size: 12pt;
+  }
+
+  .mainBody {
+    font-size: 13pt;
+  }
+
+  .homePage .signmeup h1 {
+    margin-left: 0px;
+  }
+
+  .why-now h1 {
+    margin-left: 0px;
+  }
+
+  .homePage .heroImage .heroBg2 {
+    height: 300px;
+    margin: 10px 10px;
+  }
+
+  .homePage .heroImage .heroBg2:before {
+    height: 300px;
+  }
+
+  .homePage .heroImage .heroBg {
+    width: 100%;
+    height: 300px;
+  }
+
+  /*.celebrate.anchor#activities {
+    padding-top: 10px;
+  }*/
+
+  .header .headerBar .logo a div {
+    height: 30px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
+  .homePage .heroImage .heroBg:before {
+    background: url(../images/Hero-Image.png) contain center bottom no-repeat;
+    height: 280px;
+  }
+
+  .mobile-line-break {
+    line-height: 22pt;
+  }
+
+  .margin-small {
+    margin: 5px auto;
+  }
+
+  .homePage .signmeup {
+    margin: 0 auto;
+    background: url(../images/sponsors-graphic@svg.svg);
+    background-size: 135%;
+    background-position-x: -40px;
+    background-position-y: -40px;
+    background-repeat: no-repeat;
+    display: block;
+  }
+}
+
+/* noto-sans-regular - latin */
+@font-face {
+  font-family: 'noto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'),
+       url('../fonts/noto-sans-v9-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/noto-sans-v9-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
