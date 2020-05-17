@@ -306,6 +306,10 @@ ol, ul {
     font-weight: 550;
 }
 
+.link_cta {
+  color: #27D158;
+}
+
 .btn {
     border-radius: 22px;
     color: #fff;
