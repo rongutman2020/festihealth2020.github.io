@@ -4,7 +4,7 @@
 
 .carousel_container {
 	width: max-content;
-	margin: auto;
+	margin: 80px auto 0px auto;
 }
 
 .carousel_container .section_title {
@@ -23,21 +23,26 @@
 	height: 400px;
 }
 
+.carousel_text {
+	font-size: 11pt;
+	color: #333;
+}
+
 .agenda_table {
-	margin: 600px auto 20px auto;
+	margin: 750px auto 20px auto;
 }
 
 .agenda_table img {
-	width: 1000px;
+	width: 980px;
 	height: auto;
 	margin: 0px auto;
 	display: block;
 }
 
-#logo {
-	width: 100px;
-	height: auto;
-	margin: 20px 60px;
+.header {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 50px;
 }
 
 h1 {
@@ -46,6 +51,5 @@ h1 {
 
 body {
     font-family: noto, sans-serif;
-    font-size: 10pt;
     margin: 0px;
 }
