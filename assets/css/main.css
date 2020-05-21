@@ -39,6 +39,13 @@ ol, ul {
     padding: 0 50px;
 }
 
+.programs {
+  color: black;
+  padding-bottom: 10pt;
+  font-size: 12px;
+  text-decoration: underline;
+}
+
 
 .celebrate {
     max-width: 500px;
@@ -297,6 +304,10 @@ ol, ul {
 .blackTitle {
     color: black;
     font-weight: 550;
+}
+
+.link_cta {
+  color: #27D158;
 }
 
 .btn {
