@@ -39,13 +39,6 @@ ol, ul {
     padding: 0 50px;
 }
 
-.programs {
-  color: black;
-  padding-bottom: 10pt;
-  font-size: 12px;
-  text-decoration: underline;
-}
-
 
 .celebrate {
     max-width: 500px;
@@ -304,10 +297,6 @@ ol, ul {
 .blackTitle {
     color: black;
     font-weight: 550;
-}
-
-.link_cta {
-  color: #27D158;
 }
 
 .btn {
@@ -586,14 +575,4 @@ h1 {
     background-repeat: no-repeat;
     display: block;
   }
-}
-
-/* noto-sans-regular - latin */
-@font-face {
-  font-family: 'noto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Noto Sans'), local('NotoSans'),
-       url('../fonts/noto-sans-v9-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/noto-sans-v9-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
