@@ -1,0 +1,51 @@
+.content {
+	margin: auto;
+}
+
+.carousel_container {
+	width: max-content;
+	margin: auto;
+}
+
+.carousel_container .section_title {
+	margin: 20px 20px;
+}
+
+.carousel_cell {
+	float: left;
+	width: 300px;
+	height: auto;
+	margin: 0 20px;
+}
+
+.carousel_image {
+	width: 300px;
+	height: 400px;
+}
+
+.agenda_table {
+	margin: 600px auto 20px auto;
+}
+
+.agenda_table img {
+	width: 1000px;
+	height: auto;
+	margin: 0px auto;
+	display: block;
+}
+
+#logo {
+	width: 100px;
+	height: auto;
+	margin: 20px 60px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+body {
+    font-family: noto, sans-serif;
+    font-size: 12pt;
+    margin: 0px;
+}
