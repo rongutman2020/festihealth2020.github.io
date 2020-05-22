@@ -9,12 +9,20 @@
 
 .carousel_container .section_title {
 	margin: 20px 20px;
+	text-align: left;
+}
+
+.agenda_table .section_title {
+	width: max-content;
+    margin: 80px auto 0px auto;
+	text-align: left;
 }
 
 .carousel_cell {
 	float: left;
 	width: 300px;
 	height: auto;
+	text-align: left;
 	margin: 0 20px;
 }
 
