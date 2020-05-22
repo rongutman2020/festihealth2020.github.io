@@ -1,0 +1,46 @@
+.content {
+	margin: auto;
+}
+
+.section {
+	width: max-content;
+	margin: auto;
+}
+
+.subtitle_time {
+	font-size: 10pt;
+	color: #333;
+}
+
+.speaker_cell {
+	float: left;
+	margin-right: 20px;
+}
+
+.speaker_image {
+	width: 160px;
+	height: 160px;
+}
+
+.speaker_name {
+	font-size: 13pt;
+}
+
+.speaker_title {
+	color: #999;
+	font-size: 11pt;
+}
+
+.speaker_topic {
+	font-size: 12pt;
+	width: 160px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+body {
+    font-family: noto, sans-serif;
+    margin: 0px;
+}
