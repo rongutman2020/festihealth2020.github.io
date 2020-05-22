@@ -3,7 +3,7 @@
 }
 
 .section {
-	width: 800px;
+	width: 1000px;
 	overflow: hidden;
 	margin: auto;
 }
@@ -23,14 +23,18 @@
 .speaker_image {
 	width: 200px;
 	height: 200px;
+	border-radius: 8px;
+	object-fit: cover;
 }
 
 .speaker_name {
+	width: 200px;
 	font-size: 13pt;
 	font-weight: 600;
 }
 
 .speaker_title {
+	width: 200px;
 	margin-top: 0px;
 	color: #aaa;
 	font-size: 11pt;
@@ -39,6 +43,13 @@
 .speaker_topic {
 	font-size: 11pt;
 	width: 200px;
+}
+
+.center-cropped {
+  width: 200px;
+  height: 200px;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 h1 {
