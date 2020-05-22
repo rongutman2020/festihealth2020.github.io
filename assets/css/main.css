@@ -72,6 +72,13 @@ ol, ul {
     font-size: 20pt;
 }
 
+.why-now h4 {
+    margin: 0 auto;
+    max-width: 500px;
+    font-size: 15pt;
+}
+
+
 .why-now p {
     margin: 20px auto;
     max-width: 500px;
@@ -143,6 +150,10 @@ ol, ul {
     margin: auto;
     text-align: left;
     border-spacing: 4px 20px
+}
+
+#hamburgerMenuId.hamburgerMenu {
+    text-align: center;
 }
 
 .listContainer .checklist .checkmark {
