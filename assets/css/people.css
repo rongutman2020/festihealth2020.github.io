@@ -28,11 +28,13 @@
 }
 
 .speaker_name {
+	width: 200px;
 	font-size: 13pt;
 	font-weight: 600;
 }
 
 .speaker_title {
+	width: 200px;
 	margin-top: 0px;
 	color: #aaa;
 	font-size: 11pt;
