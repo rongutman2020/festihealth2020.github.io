@@ -8,16 +8,22 @@
 	margin: auto;
 }
 
+.section h1 {
+	margin-left: 20px;
+}
+
 .subtitle_time {
 	margin-top: 0px;
 	font-size: 11pt;
 	color: #333;
+	margin-left: 20px;
 }
 
 .speaker_cell {
 	float: left;
 	margin-top: 20px;
-	margin-right: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .speaker_image {
