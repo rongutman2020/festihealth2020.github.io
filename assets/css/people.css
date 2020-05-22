@@ -49,6 +49,7 @@
 .speaker_topic {
 	font-size: 11pt;
 	width: 200px;
+	display: none;
 }
 
 .center-cropped {
