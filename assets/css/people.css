@@ -70,15 +70,15 @@
 	}*/
 	.speaker_cell {
 		float: left;
-		width: 160px;
+		width: 150px;
 		margin-top: 20px;
 		margin-left: 20px;
 		margin-right: 20px;
 	}
 
 	.speaker_image {
-		width: 160px;
-		height: 160px;
+		width: 150px;
+		height: 150px;
 		border-radius: 8px;
 		object-fit: cover;
 	}
