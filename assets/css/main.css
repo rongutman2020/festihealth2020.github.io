@@ -145,6 +145,10 @@ ol, ul {
     border-spacing: 4px 20px
 }
 
+#hamburgerMenuId.hamburgerMenu {
+    text-align: center;
+}
+
 .listContainer .checklist .checkmark {
     background: url(../images/checkmark.png);
     background-repeat: no-repeat;
