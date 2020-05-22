@@ -83,6 +83,10 @@
 		border-radius: 8px;
 		object-fit: cover;
 	}
+
+	.section h1 {
+		font-size: 13pt;
+	}
 }
 
 h1 {
@@ -93,4 +97,8 @@ h1 {
 body {
     font-family: noto, sans-serif;
     margin: 0px;
+}
+
+.content {
+	margin-top: 50px;
 }
