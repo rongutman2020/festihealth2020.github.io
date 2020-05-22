@@ -3,7 +3,7 @@
 }
 
 .section {
-	width: 1000px;
+	max-width: 1000px;
 	overflow: hidden;
 	margin: auto;
 }
@@ -21,6 +21,7 @@
 
 .speaker_cell {
 	float: left;
+	width: 200px;
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -34,13 +35,11 @@
 }
 
 .speaker_name {
-	width: 200px;
 	font-size: 13pt;
 	font-weight: 600;
 }
 
 .speaker_title {
-	width: 200px;
 	margin-top: 0px;
 	color: #aaa;
 	font-size: 11pt;
@@ -48,7 +47,6 @@
 
 .speaker_topic {
 	font-size: 11pt;
-	width: 200px;
 	display: none;
 }
 
@@ -57,6 +55,28 @@
   height: 200px;
   background-position: center center;
   background-repeat: no-repeat;
+}
+
+@media only screen and (max-width : 500px) {
+	/*.section {
+		width: 1000px;
+		overflow: hidden;
+		margin: auto;
+	}*/
+	.speaker_cell {
+		float: left;
+		width: 160px;
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	.speaker_image {
+		width: 160px;
+		height: 160px;
+		border-radius: 8px;
+		object-fit: cover;
+	}
 }
 
 h1 {
