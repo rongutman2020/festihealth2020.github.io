@@ -3,37 +3,42 @@
 }
 
 .section {
-	width: max-content;
+	width: 800px;
+	overflow: hidden;
 	margin: auto;
 }
 
 .subtitle_time {
-	font-size: 10pt;
+	margin-top: 0px;
+	font-size: 11pt;
 	color: #333;
 }
 
 .speaker_cell {
 	float: left;
-	margin-right: 20px;
+	margin-top: 20px;
+	margin-right: 40px;
 }
 
 .speaker_image {
-	width: 160px;
-	height: 160px;
+	width: 200px;
+	height: 200px;
 }
 
 .speaker_name {
 	font-size: 13pt;
+	font-weight: 600;
 }
 
 .speaker_title {
-	color: #999;
+	margin-top: 0px;
+	color: #aaa;
 	font-size: 11pt;
 }
 
 .speaker_topic {
-	font-size: 12pt;
-	width: 160px;
+	font-size: 11pt;
+	width: 200px;
 }
 
 h1 {
