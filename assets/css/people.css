@@ -10,6 +10,7 @@
 
 .section h1 {
 	margin-left: 20px;
+	margin-right: 20px
 }
 
 .subtitle_time {
@@ -72,8 +73,8 @@
 		float: left;
 		width: 150px;
 		margin-top: 20px;
-		margin-left: 20px;
-		margin-right: 20px;
+		margin-left: 15px;
+		margin-right: 15px;
 	}
 
 	.speaker_image {
