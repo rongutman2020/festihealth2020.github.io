@@ -23,6 +23,8 @@
 .speaker_image {
 	width: 200px;
 	height: 200px;
+	border-radius: 8px;
+	object-fit: cover;
 }
 
 .speaker_name {
@@ -39,6 +41,13 @@
 .speaker_topic {
 	font-size: 11pt;
 	width: 200px;
+}
+
+.center-cropped {
+  width: 200px;
+  height: 200px;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 h1 {
