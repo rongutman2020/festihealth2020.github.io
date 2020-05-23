@@ -25,6 +25,24 @@
             x.style.display = "block";
           }
         }
+
+        function hideMenu() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          }
+        }
+
+        function toggleMore(self) {
+          var x = document.getElementById("more");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+            document.getElementById("show-more").style.display = "inline"
+          } else {
+            self.style.display = "none"
+            x.style.display = "block";
+          }
+        }
     </script>
 </head>
 
@@ -53,17 +71,17 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a role="button" tabindex="0" href="./index.html#activities">
+                                                    <a role="button" tabindex="0" href="./partners.html#activities">
                                                         <span>Activities</span>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a role="button" tabindex="0" href="./partners.html#doctors">
+                                                    <a role="button" tabindex="0" href="./partners.html#speakers">
                                                         <span>Doctors</span>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a role="button" tabindex="0" href="./partners.html#partners">
+                                                    <a role="button" tabindex="0" href="./partners.html#supporters">
                                                         <span>Partners</span>
                                                     </a>
                                                 </li>
@@ -85,18 +103,17 @@
                 <div class="hamburgerMenu" id="hamburgerMenuId" style="text-align: center">
                     <ul>
                         <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
-                        <!-- <li><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">People</a></li> -->
-                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Speakers</a></li>
-                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Activities</a></li>
-                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Doctors</a></li>
-                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Partners</a></li>
-                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Supporters</a></li>
+                        <li class="subNavItem"><a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Speakers</a></li>
+                        <li class="subNavItem"><a href="./partners.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
+                        <li class="subNavItem"><a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Doctors</a></li>
+                        <li class="subNavItem"><a href="./partners.html#supporters" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Partners</a></li>
+                        <li class="subNavItem"><a href="./partners.html#supporters" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Supporters</a></li>
                         <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Contact</a></li>
                     </ul>
                 </div>
             </div>
             <div class="content">
-                <div class="section">
+                <div class="section" id="speakers">
                     <h1 style="text-align: center"><b>Speakers</b></h1>
                     <h3>Keynote: Fireside Chat – The New Era of Virtual Health (Began) in the Time of COVID-19</h3>
                     <p class="subtitle_time">12:15PM-12:45PM EDT</p>
@@ -383,7 +400,7 @@
                 </div>
             </div>
 
-            <div class="section">
+            <div class="section" id="activities">
                 <h1 style="text-align: center"><b>Activities</b></h1>
                 <h3>INTENSATI</h3>
                 <div class="speaker_table">
@@ -616,7 +633,7 @@ resistance moves), followed by a Pilates toning flow! Just a mat or carpet is ne
                 </div>
             </div>
 
-            <div class="section">
+            <div class="section" id="supporters">
                 <h1 style="text-align: center"><b>Supporters</b></h1>
                 <div class="speaker_table">
                     <div class="speaker_cell">
