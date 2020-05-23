@@ -1,5 +1,9 @@
 .content {
 	margin: auto;
+	background-image: url("../images/hero-background@svg.svg"), url("../images/sponsors-graphic@svg.svg"), url("../images/Why now-bg@svg.svg");
+	background-size: 100%, 100%, 100%;
+	background-repeat: no-repeat;
+	background-position: 0 0, 0px 1200px, 0px, 2400px
 }
 
 .main_body {
