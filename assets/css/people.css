@@ -8,10 +8,16 @@
 	margin: auto;
 }
 
+.section h3 {
+	margin-left: 20px;
+	margin-right: 20px
+}
+
 .section h1 {
 	margin-left: 20px;
 	margin-right: 20px
 }
+
 
 .subtitle_time {
 	margin-top: 0px;
@@ -94,12 +100,12 @@
 		object-fit: cover;
 	}
 
-	.section h1 {
+	.section h3 {
 		font-size: 13pt;
 	}
 }
 
-h1 {
+h3 {
 	font-size: 20pt;
     font-weight: 600;
 }
