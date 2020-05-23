@@ -79,6 +79,13 @@
   background-repeat: no-repeat;
 }
 
+.vendor_image {
+	width: 200px;
+	height: 80px;
+	border-radius: 8px;
+	object-fit: contain;
+}
+
 @media only screen and (max-width : 500px) {
 	/*.section {
 		width: 1000px;
