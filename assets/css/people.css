@@ -118,6 +118,13 @@
 		object-fit: cover;
 	}
 
+	.vendor_image {
+	width: 150px;
+	height: 60px;
+	border-radius: 8px;
+	object-fit: contain;
+}
+
 	.section h3 {
 		font-size: 13pt;
 	}
