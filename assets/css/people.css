@@ -1,5 +1,9 @@
 .content {
 	margin: auto;
+	background-image: url("../images/hero-background@svg.svg"), url("../images/sponsors-graphic@svg.svg"), url("../images/Why now-bg@svg.svg");
+	background-size: 100%, 100%, 100%;
+	background-repeat: no-repeat;
+	background-position: 0 0, 0px 1200px, 0px, 2400px
 }
 
 .section {
@@ -26,6 +30,12 @@
 	margin-left: 20px;
 }
 
+.cell_time {
+	margin-top: 0px;
+	font-size: 11pt;
+	color: #333;
+}
+
 .speaker_table {
 	display: flex;
 	flex-wrap: wrap;
@@ -37,6 +47,7 @@
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 .speaker_image {
@@ -62,11 +73,27 @@
 	display: none;
 }
 
+.cell_details {
+	font-size: 11pt;
+}
+
+.sns_link {
+	word-break: normal;
+	overflow-wrap: anywhere;
+}
+
 .center-cropped {
   width: 200px;
   height: 200px;
   background-position: center center;
   background-repeat: no-repeat;
+}
+
+.vendor_image {
+	width: 200px;
+	height: 80px;
+	border-radius: 8px;
+	object-fit: contain;
 }
 
 @media only screen and (max-width : 500px) {
@@ -81,6 +108,7 @@
 		margin-top: 20px;
 		margin-left: 15px;
 		margin-right: 15px;
+		margin-bottom: 20px;
 	}
 
 	.speaker_image {
