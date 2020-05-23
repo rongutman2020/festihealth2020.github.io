@@ -72,6 +72,11 @@
 	font-size: 11pt;
 }
 
+.sns_link {
+	word-break: normal;
+	overflow-wrap: anywhere;
+}
+
 .center-cropped {
   width: 200px;
   height: 200px;
