@@ -76,3 +76,35 @@ body {
     font-family: noto, sans-serif;
     margin: 0px;
 }
+
+@media only screen and (max-width : 500px) {
+ .carousel_container {
+    width: 95%;
+  }
+
+  .carousel_cell {
+  	width: 95%;
+  	float: inherit;
+  }
+
+  .carousel_container .section_title {
+  	margin: 20px 20px;
+  }
+
+  .main_body {
+  	width: 95%;
+  }
+
+  .table_title {
+  	margin: 20px 20px;
+  	width: 95%;
+  }
+
+  .agenda_table {
+  	margin: 60px 5px 0px 5px;
+  }
+
+  .agenda_table img{
+  	width: 80%;
+  }
+ }
