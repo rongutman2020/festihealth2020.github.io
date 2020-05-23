@@ -26,6 +26,12 @@
 	margin-left: 20px;
 }
 
+.cell_time {
+	margin-top: 0px;
+	font-size: 11pt;
+	color: #333;
+}
+
 .speaker_table {
 	display: flex;
 	flex-wrap: wrap;
@@ -60,6 +66,10 @@
 .speaker_topic {
 	font-size: 11pt;
 	display: none;
+}
+
+.cell_details {
+	font-size: 11pt;
 }
 
 .center-cropped {
