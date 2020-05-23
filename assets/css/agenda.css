@@ -42,6 +42,7 @@
 }
 
 .carousel_text {
+	max-width: 95%;
 	font-size: 11pt;
 	color: #333;
 	display: block;
@@ -101,8 +102,8 @@ body {
   }
 
   .table_title {
-  	margin: 20px 20px;
-  	width: 95%;
+  	margin: 20px auto;
+  	width: 85%;
   }
 
   .agenda_table {
