@@ -44,7 +44,7 @@
 .carousel_text {
 	font-size: 11pt;
 	color: #333;
-	display: none;
+	display: block;
 }
 
 .agenda_table {
@@ -66,7 +66,7 @@
 
 .table_title {
 	width: 980px;
-	margin: 500px auto 0px auto;
+	margin: 700px auto 0px auto;
 }
 
 a {
