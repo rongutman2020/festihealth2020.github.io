@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Agenda | Virtual Health Festival | Festihealth</title>
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/main.css">
     <link rel="stylesheet" href="./assets/css/agenda.css">
     <link rel="stylesheet" href="./assets/css/font.css">
@@ -13,6 +13,35 @@
     <meta property="og:description" content="Agenda for May 27th 2020!" />
     <meta property="og:image" content="https://festihealth.com/assets/images/festihealth.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+
+        function hideMenu() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          }
+        }
+
+        function toggleMore(self) {
+          var x = document.getElementById("more");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+            document.getElementById("show-more").style.display = "inline"
+          } else {
+            self.style.display = "none"
+            x.style.display = "block";
+          }
+        }
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166260385-1"></script>
 </head>
@@ -32,10 +61,38 @@
                             <div class="links">
                                 <nav>
                                     <ul>
-                                        <li><a href="./index.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow">Activities</a></li>
                                         <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
+                                        <li class="subNav">
+                                            <span>People</span>
+                                            <ul>
+                                                <li>
+                                                    <a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">
+                                                        <span>Speakers</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./index.html#activities">
+                                                        <span>Activities</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#doctors">
+                                                        <span>Doctors</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#partners">
+                                                        <span>Partners</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#supporters">
+                                                        <span>Supporters</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow">Contact</a></li>
-                                        <!-- <li><a href="./index.html#sponsors" role="button" tabindex="0" prefetch="false" rel="nofollow">Sponsor</a></li> -->
                                     </ul>
                                 </nav>
                             </div>
@@ -43,29 +100,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="hamburgerMenu" id="hamburgerMenuId">
+                <div class="hamburgerMenu" id="hamburgerMenuId" style="text-align: center">
                     <ul>
-                        <li><a href="./index.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
-                        <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
+                        <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Program</a></li>
+                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Speakers</a></li>
+                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
+                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Doctors</a></li>
+                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Partners</a></li>
+                        <li class="subNavItem"><a href="./partners.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Supporters</a></li>
                         <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Contact</a></li>
-                        <!-- <li><a href="./index.html#sponsors" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Sponsor</a></li> -->
                     </ul>
                 </div>
             </div>
             <div class="content">
-                <div class="header">
-                    <div class="headerBar">
-                        <div class="container">
-                            <div>
-                                <div class="logo">
-                                    <a href="/" role="button" tabindex="0" prefetch="false" rel="nofollow">
-                                        <div></div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>`
                 <div class="main_body">
                 	<div class="carousel_container">
 	                    <h1 class="section_title">Agenda</h1>
@@ -87,7 +134,7 @@
 	                <div class="table_title">
 	                	<h1 class="section_title">Program</h1>
 	                	<p>All time are in Eastern time zone(EST)</p>
-	                	<p><a href="./partners.html">Visit our speakers page</a></p>
+	                	<p><a href="./partners.html">Visit our people page</a></p>
 	                </div>
 
 	                <div class="agenda_table">

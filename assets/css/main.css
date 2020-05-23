@@ -368,6 +368,40 @@ a {
     vertical-align: middle;
 }
 
+
+.header .headerBar .links nav>ul>li>ul {
+    display: none;
+}
+
+.header .headerBar .links nav>ul>li:hover>ul {
+    display: block;
+}
+
+.header .headerBar .links nav>ul>li.subNav>ul>li>a {
+    color: #27D158;
+}
+
+.header .headerBar .links nav>ul>li.subNav>ul>li {
+    padding: 4px;
+}
+
+.header .headerBar .links nav>ul>li.subNav>ul {
+    border: solid #d2cfcf 1px;
+    border-radius: 10px;
+    width: 80px;
+    padding: 10px 20px;
+    background-color: white;
+}
+
+.header .headerBar .links nav>ul>li.subNav {
+    height: 20px;
+    width: 60px;
+}
+
+.header .headerBar .links nav>ul>li>span {
+    color: #27D158;
+}
+
 .greenDot {
     color: #27D158;
 }
@@ -377,14 +411,14 @@ a {
 }
 
 .header .headerBar .links nav>ul>li>a {
-    color: #2ca04e;
+    color: #27D158;
     display: block;
     font-weight: 350;
 }
 
-.header a {
+/*.header a {
     color: #000;
-}
+}*/
 
 body {
     font-family: noto, sans-serif;
@@ -402,11 +436,11 @@ h1 {
     position: absolute;
     top: 14px;
     right: 0;
-    color: #2ca04e;
+    color: #27D158;
 }
 
 .show-more {
-  color: #2ca04e;
+  color: #27D158;
 }
 
 #more {
@@ -420,7 +454,7 @@ h1 {
 }
 
 #menuLink {
-  color: #2ca04e;
+  color: #27D158;
 }
 
 .header .hamburgerMenu {
@@ -504,7 +538,7 @@ h1 {
 }
 
 .header .hamburgerMenu ul>li>a {
-  color: #2ca04e;
+  color: #27D158;
   font-size: 15pt;
 }
 
