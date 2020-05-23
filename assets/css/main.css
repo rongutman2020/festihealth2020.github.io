@@ -350,7 +350,7 @@ a {
 .header .headerBar .links {
     position: absolute;
     right: 0;
-    text-align: right;
+    text-align: left;
     top: 0;
 }
 
@@ -364,7 +364,7 @@ a {
 
 .header .headerBar .links nav>ul>li {
     display: inline-block;
-    padding: 0 5px;
+    padding: 0 10px;
     vertical-align: middle;
 }
 
@@ -379,6 +379,7 @@ a {
 
 .header .headerBar .links nav>ul>li.subNav>ul>li>a {
     color: #27D158;
+    text-align: left;
 }
 
 .header .headerBar .links nav>ul>li.subNav>ul>li {
