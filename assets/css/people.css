@@ -8,16 +8,28 @@
 	margin: auto;
 }
 
+.section h3 {
+	margin-left: 20px;
+	margin-right: 20px
+}
+
 .section h1 {
 	margin-left: 20px;
 	margin-right: 20px
 }
+
 
 .subtitle_time {
 	margin-top: 0px;
 	font-size: 11pt;
 	color: #333;
 	margin-left: 20px;
+}
+
+.cell_time {
+	margin-top: 0px;
+	font-size: 11pt;
+	color: #333;
 }
 
 .speaker_table {
@@ -56,6 +68,10 @@
 	display: none;
 }
 
+.cell_details {
+	font-size: 11pt;
+}
+
 .center-cropped {
   width: 200px;
   height: 200px;
@@ -84,12 +100,12 @@
 		object-fit: cover;
 	}
 
-	.section h1 {
+	.section h3 {
 		font-size: 13pt;
 	}
 }
 
-h1 {
+h3 {
 	font-size: 20pt;
     font-weight: 600;
 }
