@@ -350,7 +350,7 @@ a {
 .header .headerBar .links {
     position: absolute;
     right: 0;
-    text-align: left;
+    text-align: center;
     top: 0;
 }
 
@@ -396,7 +396,7 @@ a {
 
 .header .headerBar .links nav>ul>li.subNav {
     height: 20px;
-    width: 60px;
+    width: 80px;
 }
 
 .header .headerBar .links nav>ul>li>span {
