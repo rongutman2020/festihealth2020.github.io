@@ -350,7 +350,7 @@ a {
 .header .headerBar .links {
     position: absolute;
     right: 0;
-    text-align: center;
+    text-align: left;
     top: 0;
 }
 
@@ -393,7 +393,7 @@ a {
 .header .headerBar .links nav>ul>li.subNav>ul {
     border: solid #d2cfcf 1px;
     border-radius: 10px;
-    width: 80px;
+    width: 150px;
     padding: 10px 20px;
     background-color: white;
 }
@@ -429,6 +429,7 @@ body {
     font-family: noto, sans-serif;
     font-size: 12pt;
     margin: 0px;
+    line-height: 1.4;
 }
 
 h1 {
