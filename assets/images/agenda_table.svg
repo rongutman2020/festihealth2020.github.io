@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1189px" height="3661px" viewBox="0 0 1189 3661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphic-Agenda</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Agenda" transform="translate(-120.000000, -1085.000000)">
+            <g id="graphic-Agenda" transform="translate(120.000000, 1085.000000)">
+                <g id="header" transform="translate(165.000000, 0.000000)">
+                    <g id="Group-9" transform="translate(822.000000, 0.000000)">
+                        <path d="M7,0 L194,0 C197.865993,-7.10171439e-16 201,3.13400675 201,7 L201,89 L201,89 L0,89 L0,7 C-4.73447626e-16,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="Rectangle" fill="#9CF7D0"></path>
+                        <text id="Social-Cafe:-Let’s-t" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" fill="#333333">
+                            <tspan x="48.155" y="32">Social Cafe: </tspan>
+                            <tspan x="68.864" y="56" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal">Let’s talk</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-10" transform="translate(596.000000, 0.000000)">
+                        <path d="M7,0 L194,0 C197.865993,-7.10171439e-16 201,3.13400675 201,7 L201,89 L201,89 L0,89 L0,7 C-4.73447626e-16,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="Rectangle" fill="#DCCDFF"></path>
+                        <text id="Get-Access:-Virtual" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" fill="#333333">
+                            <tspan x="48.75" y="32">Get Access: </tspan>
+                            <tspan x="33.26" y="56" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal">Virtual care at your </tspan>
+                            <tspan x="67.068" y="75" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal">fingertips</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-11" transform="translate(369.000000, 0.000000)">
+                        <path d="M7,0 L194,0 C197.865993,-7.10171439e-16 201,3.13400675 201,7 L201,89 L201,89 L0,89 L0,7 C-4.73447626e-16,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="Rectangle" fill="#B0CFFF"></path>
+                        <text id="A-Healthier-You:-LIV" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" fill="#333333">
+                            <tspan x="25.73" y="32">A Healthier You: </tspan>
+                            <tspan x="49.136" y="56" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal">LIVE activities</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-12" transform="translate(0.000000, 0.000000)">
+                        <path d="M7,0 L336,0 C339.865993,-7.10171439e-16 343,3.13400675 343,7 L343,89 L343,89 L0,89 L0,7 C-1.36162605e-15,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="Rectangle" fill="#FFD4C5"></path>
+                        <text id="The-Main-Stage:-A-ne" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" fill="#333333">
+                            <tspan x="104.09" y="32">The Main Stage: </tspan>
+                            <tspan x="81.084" y="56" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal">A new era of Virtual Health</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="header" transform="translate(165.000000, 105.000000)">
+                    <g id="Group-16" transform="translate(822.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="201" height="89"></rect>
+                        <text id="Networking" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#333333">
+                            <tspan x="58.2" y="52">Networking</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-15" transform="translate(596.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="201" height="89"></rect>
+                        <text id="Partner-Breakout" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#333333">
+                            <tspan x="39.66" y="52">Partner Breakout</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-14" transform="translate(369.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="201" height="89"></rect>
+                        <text id="Instructor-Breakout" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#333333">
+                            <tspan x="29.552" y="52">Instructor Breakout</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-13" transform="translate(0.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="343" height="89"></rect>
+                        <text id="Main-Stage" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#333333">
+                            <tspan x="136.484" y="52">Main Stage</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-7" transform="translate(0.000000, 204.000000)">
+                    <g id="bg" transform="translate(165.000000, 10.000000)" fill-opacity="0.2">
+                        <rect id="Rectangle" fill="#9CF7D0" x="822" y="4.54747351e-13" width="201" height="3440"></rect>
+                        <rect id="Rectangle" fill="#DCCDFF" x="596" y="4.54747351e-13" width="201" height="3440"></rect>
+                        <rect id="Rectangle" fill="#B0CFFF" x="369" y="4.54747351e-13" width="201" height="3440"></rect>
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="4.54747351e-13" width="343" height="2781"></rect>
+                    </g>
+                    <g id="time" fill="#999999" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold">
+                        <text id="10:00AM-EST">
+                            <tspan x="33.048" y="16">10:00AM EST</tspan>
+                        </text>
+                        <text id="10:30AM-EST">
+                            <tspan x="33.048" y="148">10:30AM EST</tspan>
+                        </text>
+                        <text id="11:00AM-EST">
+                            <tspan x="33.048" y="281">11:00AM EST</tspan>
+                        </text>
+                        <text id="11:30AM-EST">
+                            <tspan x="33.048" y="413">11:30AM EST</tspan>
+                        </text>
+                        <text id="12:00PM-EST">
+                            <tspan x="34.408" y="545">12:00PM EST</tspan>
+                        </text>
+                        <text id="12:30PM-EST">
+                            <tspan x="34.408" y="678">12:30PM EST</tspan>
+                        </text>
+                        <text id="1:00PM-EST">
+                            <tspan x="43.688" y="810">1:00PM EST</tspan>
+                        </text>
+                        <text id="1:30PM-EST">
+                            <tspan x="43.688" y="943">1:30PM EST</tspan>
+                        </text>
+                        <text id="2:00PM-EST">
+                            <tspan x="43.688" y="1075">2:00PM EST</tspan>
+                        </text>
+                        <text id="2:30PM-EST">
+                            <tspan x="40.6" y="1207">2:30PM  EST</tspan>
+                        </text>
+                        <text id="3:00PM-EST">
+                            <tspan x="43.688" y="1340">3:00PM EST</tspan>
+                        </text>
+                        <text id="3:30PM-EST">
+                            <tspan x="43.688" y="1472">3:30PM EST</tspan>
+                        </text>
+                        <text id="4:00PM-EST">
+                            <tspan x="43.688" y="1604">4:00PM EST</tspan>
+                        </text>
+                        <text id="4:30PM-EST">
+                            <tspan x="43.688" y="1737">4:30PM EST</tspan>
+                        </text>
+                        <text id="5:00PM-EST">
+                            <tspan x="40.6" y="1869">5:00PM  EST</tspan>
+                        </text>
+                        <text id="5:30PM-EST">
+                            <tspan x="43.688" y="2001.5">5:30PM EST</tspan>
+                        </text>
+                        <text id="6:00PM-EST">
+                            <tspan x="43.688" y="2133.5">6:00PM EST</tspan>
+                        </text>
+                        <text id="9:00PM-EST">
+                            <tspan x="43.688" y="2925.5">9:00PM EST</tspan>
+                        </text>
+                        <text id="6:30PM-EST">
+                            <tspan x="43.688" y="2265.5">6:30PM EST</tspan>
+                        </text>
+                        <text id="9:30PM-EST">
+                            <tspan x="43.688" y="3057.5">9:30PM EST</tspan>
+                        </text>
+                        <text id="7:00PM-EST">
+                            <tspan x="43.688" y="2397.5">7:00PM EST</tspan>
+                        </text>
+                        <text id="10:00PM-EST">
+                            <tspan x="34.408" y="3189.5">10:00PM EST</tspan>
+                        </text>
+                        <text id="7:30PM-EST">
+                            <tspan x="43.688" y="2529.5">7:30PM EST</tspan>
+                        </text>
+                        <text id="10:30PM-EST">
+                            <tspan x="34.408" y="3321.5">10:30PM EST</tspan>
+                        </text>
+                        <text id="8:00PM-EST">
+                            <tspan x="43.688" y="2661.5">8:00PM EST</tspan>
+                        </text>
+                        <text id="11:00PM-EST">
+                            <tspan x="34.408" y="3453.5">11:00PM EST</tspan>
+                        </text>
+                        <text id="8:30PM-EST">
+                            <tspan x="43.688" y="2793.5">8:30PM EST</tspan>
+                        </text>
+                    </g>
+                    <g id="lines" transform="translate(148.000000, 10.000000)" stroke="#CECECE" stroke-dasharray="5">
+                        <g id="Group-5" transform="translate(0.000000, 0.500000)">
+                            <line x1="-7.67485034e-15" y1="1" x2="1041" y2="1" id="Path-12"></line>
+                            <line x1="-7.67485034e-15" y1="68" x2="1041" y2="68" id="Path-12"></line>
+                            <line x1="-7.67485034e-15" y1="134" x2="1041" y2="134" id="Path-12"></line>
+                            <line x1="-7.67485034e-15" y1="200" x2="1041" y2="200" id="Path-12"></line>
+                            <line x1="-7.67485034e-15" y1="267" x2="1041" y2="267" id="Path-12-Copy"></line>
+                            <line x1="-7.67485034e-15" y1="333" x2="1041" y2="333" id="Path-12-Copy"></line>
+                            <line x1="-7.67485034e-15" y1="399" x2="1041" y2="399" id="Path-12-Copy-2"></line>
+                            <line x1="-7.67485034e-15" y1="465" x2="1041" y2="465" id="Path-12-Copy-2"></line>
+                            <line x1="-7.67485034e-15" y1="532" x2="1041" y2="532" id="Path-12-Copy-3"></line>
+                            <line x1="-7.67485034e-15" y1="598" x2="1041" y2="598" id="Path-12-Copy-3"></line>
+                            <line x1="-7.67485034e-15" y1="664" x2="1041" y2="664" id="Path-12-Copy-4"></line>
+                            <line x1="-7.67485034e-15" y1="730" x2="1041" y2="730" id="Path-12-Copy-4"></line>
+                            <line x1="-7.67485034e-15" y1="797" x2="1041" y2="797" id="Path-12-Copy-5"></line>
+                            <line x1="-7.67485034e-15" y1="863" x2="1041" y2="863" id="Path-12-Copy-5"></line>
+                            <line x1="-7.67485034e-15" y1="929" x2="1041" y2="929" id="Path-12-Copy-6"></line>
+                            <line x1="-7.67485034e-15" y1="996" x2="1041" y2="996" id="Path-12-Copy-6"></line>
+                            <line x1="-7.67485034e-15" y1="1062" x2="1041" y2="1062" id="Path-12-Copy-7"></line>
+                            <line x1="-7.67485034e-15" y1="1128" x2="1041" y2="1128" id="Path-12-Copy-7"></line>
+                            <line x1="-7.67485034e-15" y1="1194" x2="1041" y2="1194" id="Path-12-Copy-8"></line>
+                            <line x1="-7.67485034e-15" y1="1261" x2="1041" y2="1261" id="Path-12-Copy-8"></line>
+                            <line x1="-7.67485034e-15" y1="1327" x2="1041" y2="1327" id="Path-12-Copy-9"></line>
+                            <line x1="-7.67485034e-15" y1="1393" x2="1041" y2="1393" id="Path-12-Copy-9"></line>
+                            <line x1="-7.67485034e-15" y1="1459" x2="1041" y2="1459" id="Path-12-Copy-10"></line>
+                            <line x1="-7.67485034e-15" y1="1526" x2="1041" y2="1526" id="Path-12-Copy-10"></line>
+                            <line x1="-7.67485034e-15" y1="1592" x2="1041" y2="1592" id="Path-12-Copy-11"></line>
+                            <line x1="-7.67485034e-15" y1="1658" x2="1041" y2="1658" id="Path-12-Copy-11"></line>
+                            <line x1="-7.67485034e-15" y1="1724" x2="1041" y2="1724" id="Path-12-Copy-12"></line>
+                            <line x1="-7.67485034e-15" y1="1790" x2="1041" y2="1790" id="Path-12-Copy-12"></line>
+                            <line x1="-7.67485034e-15" y1="1856" x2="1041" y2="1856" id="Path-12-Copy-13"></line>
+                            <line x1="-7.67485034e-15" y1="1923" x2="1041" y2="1923" id="Path-12-Copy-14"></line>
+                            <line x1="-7.67485034e-15" y1="1989" x2="1041" y2="1989" id="Path-12-Copy-15"></line>
+                            <line x1="-7.67485034e-15" y1="2055" x2="1041" y2="2055" id="Path-12-Copy-16"></line>
+                            <line x1="-7.67485034e-15" y1="2121" x2="1041" y2="2121" id="Path-12-Copy-17"></line>
+                            <line x1="-7.67485034e-15" y1="2187" x2="1041" y2="2187" id="Path-12-Copy-18"></line>
+                            <line x1="-7.67485034e-15" y1="2253" x2="1041" y2="2253" id="Path-12-Copy-19"></line>
+                            <line x1="-7.67485034e-15" y1="2319" x2="1041" y2="2319" id="Path-12-Copy-20"></line>
+                            <line x1="-7.67485034e-15" y1="2385" x2="1041" y2="2385" id="Path-12-Copy-21"></line>
+                            <line x1="-7.67485034e-15" y1="2451" x2="1041" y2="2451" id="Path-12-Copy-22"></line>
+                            <line x1="-7.67485034e-15" y1="2517" x2="1041" y2="2517" id="Path-12-Copy-23"></line>
+                            <line x1="-7.67485034e-15" y1="2583" x2="1041" y2="2583" id="Path-12-Copy-24"></line>
+                            <line x1="-7.67485034e-15" y1="2649" x2="1041" y2="2649" id="Path-12-Copy-25"></line>
+                            <line x1="-7.67485034e-15" y1="2715" x2="1041" y2="2715" id="Path-12-Copy-26"></line>
+                            <line x1="-7.67485034e-15" y1="2781" x2="1041" y2="2781" id="Path-12-Copy-27"></line>
+                            <line x1="-7.67485034e-15" y1="2847" x2="1041" y2="2847" id="Path-12-Copy-28"></line>
+                            <line x1="-7.67485034e-15" y1="2913" x2="1041" y2="2913" id="Path-12-Copy-29"></line>
+                            <line x1="-7.67485034e-15" y1="2979" x2="1041" y2="2979" id="Path-12-Copy-30"></line>
+                            <line x1="-7.67485034e-15" y1="3045" x2="1041" y2="3045" id="Path-12-Copy-31"></line>
+                            <line x1="-7.67485034e-15" y1="3111" x2="1041" y2="3111" id="Path-12-Copy-32"></line>
+                            <line x1="-7.67485034e-15" y1="3177" x2="1041" y2="3177" id="Path-12-Copy-33"></line>
+                            <line x1="-7.67485034e-15" y1="3243" x2="1041" y2="3243" id="Path-12-Copy-34"></line>
+                            <line x1="-7.67485034e-15" y1="3309" x2="1041" y2="3309" id="Path-12-Copy-35"></line>
+                            <line x1="-7.67485034e-15" y1="3375" x2="1041" y2="3375" id="Path-12-Copy-36"></line>
+                            <line x1="-7.67485034e-15" y1="3441" x2="1041" y2="3441" id="Path-12-Copy-37"></line>
+                        </g>
+                    </g>
+                    <g id="Group-4" transform="translate(165.000000, 10.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="4.54747351e-13" width="343" height="132" rx="12"></rect>
+                        <text id="Orientation" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Orientation</tspan>
+                        </text>
+                        <text id="10:00-10:30AM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">10:00-10:30AM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-20" transform="translate(534.000000, 412.000000)">
+                        <rect id="Rectangle" fill="#B0CFFF" x="0" y="0" width="200" height="193" rx="12"></rect>
+                        <text id="Interactive-Activiti" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Interactive Activities: </tspan>
+                            <tspan x="16" y="46"></tspan>
+                            <tspan x="16" y="65">- Meditation,</tspan>
+                            <tspan x="16" y="84">- Yoga </tspan>
+                            <tspan x="16" y="103">- Physical Activity</tspan>
+                        </text>
+                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="124">11:30-12:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-22" transform="translate(534.000000, 423.000000)">
+                        <rect id="Rectangle" fill="#B0CFFF" x="0" y="387" width="200" height="1450" rx="12"></rect>
+                        <text id="Interactive-Activiti" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="414">Interactive Activities: </tspan>
+                            <tspan x="16" y="433"></tspan>
+                            <tspan x="16" y="452">- Meditation,</tspan>
+                            <tspan x="16" y="471">- Yoga </tspan>
+                            <tspan x="16" y="490">- Physical Activity</tspan>
+                        </text>
+                        <text id="Interactive-Activiti-Copy" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="16">Interactive Activities: </tspan>
+                            <tspan x="16" y="35"></tspan>
+                            <tspan x="16" y="54">- Meditation,</tspan>
+                            <tspan x="16" y="73">- Yoga </tspan>
+                            <tspan x="16" y="92">- Physical Activity</tspan>
+                        </text>
+                        <text id="1:00-6:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="511">1:00-6:30PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-25" transform="translate(761.000000, 810.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="259" rx="12"></rect>
+                        <text id="Ask-a-Doc:-Women’s-a" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: Women’s  </tspan>
+                            <tspan x="16" y="46">and Maternal Health</tspan>
+                        </text>
+                        <text id="1:00-2:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">1:00-2:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-30" transform="translate(987.000000, 810.000000)">
+                        <rect id="Rectangle" fill="#9CF7D0" x="0" y="0" width="200" height="1317" rx="12"></rect>
+                        <text id="Coffee-&amp;-Juice-Bar:" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Coffee &amp; Juice Bar: </tspan>
+                            <tspan x="16" y="46">Open Networking/ </tspan>
+                            <tspan x="16" y="65">Live Music &amp;. Comedy</tspan>
+                        </text>
+                        <text id="1:00-6:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="86">1:00-6:30PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-31" transform="translate(987.000000, 412.000000)">
+                        <rect id="Rectangle" fill="#9CF7D0" x="0" y="0" width="200" height="194" rx="12"></rect>
+                        <text id="Coffee-&amp;-Juice-Bar:" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Coffee &amp; Juice Bar: </tspan>
+                            <tspan x="16" y="46">Open Networking/ </tspan>
+                            <tspan x="16" y="65">Live Music &amp;. Comedy</tspan>
+                        </text>
+                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="86">11:30-12:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-32" transform="translate(987.000000, 2662.000000)">
+                        <rect id="Rectangle" fill="#9CF7D0" x="0" y="0" width="200" height="788" rx="12"></rect>
+                        <text id="Open-Networking/-Liv" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Open Networking/ </tspan>
+                            <tspan x="16" y="46">Live Music</tspan>
+                        </text>
+                        <text id="8:00-11:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">8:00-11:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-26" transform="translate(761.000000, 1076.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="257" rx="12"></rect>
+                        <text id="Ask-a-Doc:-Pediatric" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: Pediatrics</tspan>
+                        </text>
+                        <text id="2:00-3:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">2:00-3:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-27" transform="translate(761.000000, 1342.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="257" rx="12"></rect>
+                        <text id="Ask-a-Doc:-Mental-he" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: Mental health</tspan>
+                        </text>
+                        <text id="3:00-4:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">3:00-4:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-28" transform="translate(761.000000, 1605.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="259" rx="12"></rect>
+                        <text id="Ask-a-Doc:-Primary-C" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: Primary Care</tspan>
+                        </text>
+                        <text id="4:00PM-5:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">4:00PM-5:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-33" transform="translate(761.000000, 412.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="192" rx="12"></rect>
+                        <text id="Ask-a-Doc:-Primary-C" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: Primary Care </tspan>
+                            <tspan x="16" y="46">in Time of COVID</tspan>
+                        </text>
+                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">11:30-12:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-29" transform="translate(761.000000, 1870.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="257" rx="12"></rect>
+                        <text id="Ask-a-Doc:-AI-and-Vi" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Ask a Doc: AI and Virtual </tspan>
+                            <tspan x="16" y="46">Health</tspan>
+                        </text>
+                        <text id="5:00-6:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">5:00-6:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy" transform="translate(165.000000, 146.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="4.54747351e-13" width="343" height="129" rx="12"></rect>
+                        <text id="Virtual-Cooking-Clas" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Virtual Cooking Class: A Healthy Brunch </tspan>
+                            <tspan x="16" y="46">with a Celebrity Chef</tspan>
+                        </text>
+                        <text id="10:30-11:00AM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">10:30-11:00AM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-2" transform="translate(166.000000, 279.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="4.54747351e-13" width="342" height="62" rx="12"></rect>
+                        <text id="Welcome-and-Opening" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="27">Welcome and Opening Remarks</tspan>
+                        </text>
+                        <text id="11:00-11:15AM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">11:00-11:15AM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-2" transform="translate(166.000000, 345.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="2.27373675e-13" width="342" height="62" rx="12"></rect>
+                        <text id="Lessons-Learned-—-A" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Lessons Learned — A Live Interview with a </tspan>
+                            <tspan x="16" y="49">Doctor in China</tspan>
+                        </text>
+                        <text id="11:15-11:30AM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="218.726" y="50">11:15-11:30AM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-3" transform="translate(166.000000, 610.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="2.27373675e-13" width="342" height="129" rx="12"></rect>
+                        <text id="Keynote:-The-New-Era" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Keynote: The New Era of Virtual Health </tspan>
+                            <tspan x="16" y="49">(Began) in the Time of COVID-19</tspan>
+                        </text>
+                        <text id="12:15-12:45PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="99">12:15-12:45PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-4" transform="translate(166.000000, 411.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="2.27373675e-13" width="342" height="195" rx="12"></rect>
+                        <text id="Panel:-Mental-Well-b" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Mental Well-being in a World of </tspan>
+                            <tspan x="16" y="49">Distancing</tspan>
+                        </text>
+                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">11:30-12:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-5" transform="translate(166.000000, 743.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="2.27373675e-13" width="342" height="62" rx="12"></rect>
+                        <text id="Comedy-Show" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Comedy Show</tspan>
+                        </text>
+                        <text id="12:45-1:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">12:45-1:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-6" transform="translate(166.000000, 809.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="129" rx="12"></rect>
+                        <text id="Panel:-Virtal-Excell" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Virtal Excellence - Better Health at a </tspan>
+                            <tspan x="16" y="49">Lower Cost</tspan>
+                        </text>
+                        <text id="1:00-1:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">1:00-1:30PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-7" transform="translate(166.000000, 942.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="193" rx="12"></rect>
+                        <text id="Panel:-Women’s-Healt" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Women’s Health in the Virtual Age</tspan>
+                        </text>
+                        <text id="1:30-2:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">1:30-2:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-8" transform="translate(166.000000, 1141.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="194" rx="12"></rect>
+                        <text id="Panel:-Back-to-Work" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Back to Work in the “New Normal”</tspan>
+                        </text>
+                        <text id="2:15-3:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">2:15-3:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-9" transform="translate(166.000000, 1339.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="128" rx="12"></rect>
+                        <text id="Keynote:-Between-Bri" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Keynote: Between Bricks and Clicks —</tspan>
+                            <tspan x="16" y="49">Redefining the Future of HealthCare</tspan>
+                        </text>
+                        <text id="3:00-3:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="99">3:00-3:30PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-10" transform="translate(166.000000, 1471.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="143" rx="12"></rect>
+                        <text id="Panel:-The-Promise-a" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: The Promise and Peril of Big Data </tspan>
+                            <tspan x="16" y="49">and Artificial Intelligence in the New </tspan>
+                            <tspan x="16" y="73">Normal of Virtual Health</tspan>
+                        </text>
+                        <text id="3:30-4:05PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="99">3:30-4:05PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-15" transform="translate(166.000000, 1722.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="143" rx="12"></rect>
+                        <text id="Panel:-Making-Sense" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Making Sense of Sensors, Devices, </tspan>
+                            <tspan x="16" y="49">and Digital Therapeutics</tspan>
+                        </text>
+                        <text id="4:25-5:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">4:25-5:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-23" transform="translate(166.000000, 1618.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="101" rx="12"></rect>
+                        <text id="Fireside-Chat-—-Mind" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Fireside Chat — Mindfulness and the </tspan>
+                            <tspan x="16" y="49">“Virtual Mind”</tspan>
+                        </text>
+                        <text id="4:05-4:25PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">4:05-4:25PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-11" transform="translate(166.000000, 1869.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="62" rx="12"></rect>
+                        <text id="Live-Music-Show" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Live Music Show</tspan>
+                        </text>
+                        <text id="5:00-5:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">5:00-5:15PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-12" transform="translate(166.000000, 1935.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="193" rx="12"></rect>
+                        <text id="Panel:-Food-for-Thou" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="24">Panel: Food for Thought — Immunity </tspan>
+                            <tspan x="16" y="48">Through Better Nutrition</tspan>
+                        </text>
+                        <text id="5:15-6:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16.932" y="76">5:15-6:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-14" transform="translate(166.000000, 2134.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="89" rx="12"></rect>
+                        <text id="Fireside-chat:-When" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Fireside chat: When Virtual Help is Always </tspan>
+                            <tspan x="16" y="49">There</tspan>
+                        </text>
+                        <text id="6:00-6:20PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="71">6:00-6:20PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-21" transform="translate(166.000000, 2227.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="99" rx="12"></rect>
+                        <text id="Panel:-Start-up-Virt" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Panel: Start-up Virtual Health With a </tspan>
+                            <tspan x="16" y="49">Competition</tspan>
+                        </text>
+                        <text id="6:20-6:45" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">6:20-6:45</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-16" transform="translate(166.000000, 2331.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="61" rx="12"></rect>
+                        <text id="Closing-Remarks-and" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="22">Closing Remarks and Awards Ceremony</tspan>
+                        </text>
+                        <text id="6:45-7:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="48">6:45-7:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-17" transform="translate(166.000000, 2399.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="256" rx="12"></rect>
+                        <text id="Virtual-Cooking-Clas" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Virtual Cooking Class: A Healthy Dinner </tspan>
+                            <tspan x="16" y="49">with a Celebrity Chef</tspan>
+                        </text>
+                        <text id="7:00-8:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="75">7:00-8:00PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-18" transform="translate(166.000000, 2662.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="390" rx="12"></rect>
+                        <text id="Dinner" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Dinner</tspan>
+                        </text>
+                        <text id="8:00-9:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">8:00-9:30PM</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-4-Copy-19" transform="translate(166.000000, 3059.000000)">
+                        <rect id="Rectangle" fill="#FFD4C5" x="0" y="0" width="342" height="389" rx="12"></rect>
+                        <text id="Virtual-Dancing-(wit" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" line-spacing="24" fill="#333333">
+                            <tspan x="16" y="25">Virtual Dancing (with DJ’s for Good)</tspan>
+                        </text>
+                        <text id="9:30-11:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="51">9:30-11:00PM</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
