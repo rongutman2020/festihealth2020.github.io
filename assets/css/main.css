@@ -2,6 +2,10 @@ ol, ul {
     list-style: none;
 }
 
+#tab_program {
+    margin-right: 20px;
+}
+
 .header .headerBar .logo a {
     display: block;
     padding: 8px 0;
