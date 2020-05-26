@@ -312,7 +312,7 @@ ol, ul {
     display: block;
 }
 
-.carousel_text_main a {
+a {
     color: #27D158;
 }
 
@@ -672,4 +672,14 @@ h1 {
     background-repeat: no-repeat;
     display: block;
   }
+    .carousel_container_main {
+        width: 95%;
+    }
+    .carousel_cell_main {
+        float: left;
+        width: 300px;
+        height: auto;
+        text-align: left;
+        margin: 0 auto;
+    }
 }
