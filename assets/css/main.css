@@ -186,7 +186,7 @@ ol, ul {
 .homePage .heroImage .heroBg {
     height: 550px;
     width: 80%;
-    margin: auto;
+    margin: 20px auto 0px auto;
 }
 .heroImage .heroBg {
     background-size: cover;
@@ -283,6 +283,37 @@ ol, ul {
 
 .cta {
   margin: 10px auto;
+}
+
+.carousel_container_main {
+    width: max-content;
+    margin: 80px auto 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.carousel_cell_main {
+    float: left;
+    width: 300px;
+    height: auto;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.carousel_image_main {
+    width: 300px;
+    height: 400px;
+}
+
+.carousel_text_main {
+    max-width: 95%;
+    font-size: 11pt;
+    color: #333;
+    display: block;
+}
+
+.carousel_text_main a {
+    color: #27D158;
 }
 
 @media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all
