@@ -291,7 +291,7 @@ ol, ul {
 
 .carousel_container_main {
     width: max-content;
-    margin: 80px auto 0px auto;
+    margin: 40px auto 0px auto;
     display: flex;
     flex-wrap: wrap;
 }
@@ -318,6 +318,12 @@ ol, ul {
 
 a {
     color: #27D158;
+}
+
+.supporter_image {
+    width: 400px;
+    height: 120px;
+    object-fit: contain;
 }
 
 @media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all
@@ -676,10 +682,19 @@ h1 {
         width: 95%;
     }
     .carousel_cell_main {
-        float: left;
-        width: 300px;
+        width: 95%;
+        float: inherit;
+        margin: auto;
+      }
+
+      .carousel_image_main {
+        width: 95%;
         height: auto;
-        text-align: left;
-        margin: 0 auto;
+      }
+
+      .supporter_image {
+        width: 300px;
+        height: 80px;
+        object-fit: contain;
     }
 }
