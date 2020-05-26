@@ -1,3 +1,5 @@
+@import url("https://fonts.fontself.com/5EmA6EV/herbarium-latin-regular.css");
+
 .content {
 	margin: auto;
 	background-image: url("../images/hero-background@svg.svg"), url("../images/sponsors-graphic@svg.svg"), url("../images/Why now-bg@svg.svg");
@@ -18,8 +20,8 @@
 }
 
 .carousel_container .section_title {
-	margin: 20px 20px;
-	text-align: left;
+	margin: 20px 40px;
+	text-align: center;
 }
 
 .agenda_table .section_title {
@@ -39,13 +41,14 @@
 .carousel_image {
 	width: 300px;
 	height: 400px;
+	object-fit: contain;
 }
 
 .carousel_text {
 	max-width: 95%;
 	font-size: 11pt;
 	color: #333;
-	display: block;
+	display: none;
 }
 
 .agenda_table {
@@ -67,7 +70,8 @@
 
 .table_title {
 	width: 980px;
-	margin: 650px auto 0px auto;
+	margin: 500px auto 0px auto;
+	text-align: center;
 }
 
 a {
