@@ -320,6 +320,12 @@ a {
     color: #27D158;
 }
 
+.supporter_image {
+    width: 400px;
+    height: 120px;
+    object-fit: contain;
+}
+
 @media not all, not all, only screen and (-webkit-min-device-pixel-ratio: 1.5), not all
 .homePage .valueProps .peaceOfMind .image {
     background-image: url(../images/festihealth.png);
@@ -685,4 +691,10 @@ h1 {
         width: 95%;
         height: auto;
       }
+
+      .supporter_image {
+        width: 300px;
+        height: 80px;
+        object-fit: contain;
+    }
 }
