@@ -217,37 +217,38 @@
                             <tspan x="16" y="48">10:00-10:30AM</tspan>
                         </text>
                     </g>
-                    <g id="Group-4-Copy-20" transform="translate(534.000000, 412.000000)">
-                        <rect id="Rectangle" fill="#B0CFFF" x="0" y="0" width="200" height="193" rx="12"></rect>
+                    <g id="Group-4-Copy-20" transform="translate(534.000000, 345.000000)">
+                        <g id="Group-17">
+                            <rect id="Rectangle" fill="#B0CFFF" x="0" y="0" width="200" height="259" rx="12"></rect>
+                            <text id="11:15-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                                <tspan x="16" y="124">11:15-12:15PM</tspan>
+                            </text>
+                            <text id="Interactive-Activiti" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                                <tspan x="16" y="27">Interactive Activities: </tspan>
+                                <tspan x="16" y="46"></tspan>
+                                <tspan x="16" y="65">- Meditation</tspan>
+                                <tspan x="16" y="84">- Yoga </tspan>
+                                <tspan x="16" y="103">- Physical Activity</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-18" transform="translate(534.000000, 810.000000)">
+                        <rect id="Rectangle" fill="#B0CFFF" x="0" y="0" width="200" height="1318" rx="12"></rect>
                         <text id="Interactive-Activiti" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
                             <tspan x="16" y="27">Interactive Activities: </tspan>
                             <tspan x="16" y="46"></tspan>
-                            <tspan x="16" y="65">- Meditation,</tspan>
+                            <tspan x="16" y="65">- Meditation</tspan>
                             <tspan x="16" y="84">- Yoga </tspan>
                             <tspan x="16" y="103">- Physical Activity</tspan>
                         </text>
-                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
-                            <tspan x="16" y="124">11:30-12:15PM</tspan>
+                        <text id="Virtual-Health-Expo" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
+                            <tspan x="16" y="171">Virtual Health Expo</tspan>
                         </text>
-                    </g>
-                    <g id="Group-4-Copy-22" transform="translate(534.000000, 423.000000)">
-                        <rect id="Rectangle" fill="#B0CFFF" x="0" y="387" width="200" height="1450" rx="12"></rect>
-                        <text id="Interactive-Activiti" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
-                            <tspan x="16" y="414">Interactive Activities: </tspan>
-                            <tspan x="16" y="433"></tspan>
-                            <tspan x="16" y="452">- Meditation,</tspan>
-                            <tspan x="16" y="471">- Yoga </tspan>
-                            <tspan x="16" y="490">- Physical Activity</tspan>
+                        <text id="1:00-6:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="124">1:00-6:00PM</tspan>
                         </text>
-                        <text id="Interactive-Activiti-Copy" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
-                            <tspan x="16" y="16">Interactive Activities: </tspan>
-                            <tspan x="16" y="35"></tspan>
-                            <tspan x="16" y="54">- Meditation,</tspan>
-                            <tspan x="16" y="73">- Yoga </tspan>
-                            <tspan x="16" y="92">- Physical Activity</tspan>
-                        </text>
-                        <text id="1:00-6:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
-                            <tspan x="16" y="511">1:00-6:30PM</tspan>
+                        <text id="1:00-6:00PM-Copy" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="192">1:00-6:00PM</tspan>
                         </text>
                     </g>
                     <g id="Group-4-Copy-25" transform="translate(761.000000, 810.000000)">
@@ -267,19 +268,19 @@
                             <tspan x="16" y="46">Open Networking/ </tspan>
                             <tspan x="16" y="65">Live Music &amp;. Comedy</tspan>
                         </text>
-                        <text id="1:00-6:30PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
-                            <tspan x="16" y="86">1:00-6:30PM</tspan>
+                        <text id="1:00-6:00PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="86">1:00-6:00PM</tspan>
                         </text>
                     </g>
-                    <g id="Group-4-Copy-31" transform="translate(987.000000, 412.000000)">
-                        <rect id="Rectangle" fill="#9CF7D0" x="0" y="0" width="200" height="194" rx="12"></rect>
+                    <g id="Group-4-Copy-31" transform="translate(987.000000, 346.000000)">
+                        <rect id="Rectangle" fill="#9CF7D0" x="5.1159077e-13" y="0" width="200" height="258" rx="12"></rect>
                         <text id="Coffee-&amp;-Juice-Bar:" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
                             <tspan x="16" y="27">Coffee &amp; Juice Bar: </tspan>
                             <tspan x="16" y="46">Open Networking/ </tspan>
                             <tspan x="16" y="65">Live Music &amp;. Comedy</tspan>
                         </text>
-                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
-                            <tspan x="16" y="86">11:30-12:15PM</tspan>
+                        <text id="11:15-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="86">11:15-12:15PM</tspan>
                         </text>
                     </g>
                     <g id="Group-4-Copy-32" transform="translate(987.000000, 2662.000000)">
@@ -319,14 +320,14 @@
                             <tspan x="16" y="48">4:00PM-5:00PM</tspan>
                         </text>
                     </g>
-                    <g id="Group-4-Copy-33" transform="translate(761.000000, 412.000000)">
-                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="192" rx="12"></rect>
+                    <g id="Group-4-Copy-33" transform="translate(761.000000, 346.000000)">
+                        <rect id="Rectangle" fill="#DCCDFF" x="0" y="0" width="200" height="255" rx="12"></rect>
                         <text id="Ask-a-Doc:-Primary-C" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#333333">
                             <tspan x="16" y="27">Ask a Doc: Primary Care </tspan>
                             <tspan x="16" y="46">in Time of COVID</tspan>
                         </text>
-                        <text id="11:30-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
-                            <tspan x="16" y="67">11:30-12:15PM</tspan>
+                        <text id="11:15-12:15PM" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" fill="#666666">
+                            <tspan x="16" y="67">11:15-12:15PM</tspan>
                         </text>
                     </g>
                     <g id="Group-4-Copy-29" transform="translate(761.000000, 1870.000000)">
