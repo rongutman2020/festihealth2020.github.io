@@ -20,7 +20,7 @@
 }
 
 .carousel_container .section_title {
-	margin: 20px 40px;
+	margin: 30px 40px;
 	text-align: center;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .agenda_table {
-	margin: 20px auto 20px auto;
+	margin: 40px auto 20px auto;
 }
 
 .agenda_table img {
@@ -95,6 +95,7 @@ body {
   .carousel_cell {
   	width: 95%;
   	float: inherit;
+  	margin: auto;
   }
 
   .carousel_container .section_title {
