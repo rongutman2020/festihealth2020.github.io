@@ -1,5 +1,4 @@
 .content {
-	margin: auto;
 	background-image: url("../images/background.svg");
 	background-size: 100%;
 	background-position: 0 0;
@@ -120,7 +119,7 @@
 }
 
 .section_header {
-	padding-top: 40px;
+	padding-top: 100px;
 }
 
 @media only screen and (max-width : 500px) {
