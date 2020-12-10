@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>David Rhew, MD</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/people_detail.css">
+    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="icon" type="image/png" href="./assets/images/favicon.png">
+    <meta property="og:title" content="Partners | Virtual Health Festival | Festihealth" />
+    <meta property="og:description" content="Partners for May 27th 2020!" />
+    <meta property="og:image" content="https://givelovegethelp.org/assets/images/festihealth.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166260385-1"></script>
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+
+        function hideMenu() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          }
+        }
+
+        function toggleMore(self) {
+          var x = document.getElementById("more");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+            document.getElementById("show-more").style.display = "inline"
+          } else {
+            self.style.display = "none"
+            x.style.display = "block";
+          }
+        }
+    </script>
+</head>
+
+<body>
+    <div class="homePage">
+        <div class="pageLayout">
+            <div class="header">
+                <div class="headerBar">
+                    <div class="container">
+                        <div>
+                            <div class="logo">
+                                <a href="/" role="button" tabindex="0" prefetch="false" rel="nofollow">
+                                    <div></div>
+                                </a>
+                            </div>
+                            <div class="links">
+                                <nav>
+                                    <ul>
+                                        <li id="tab_program"><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
+                                        <li class="subNav">
+                                            <span><a href="javascript:void(0);" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">People <img src="./assets/images/down-arrow.svg" style="vertical-align: middle"></a></span>
+                                            <ul>
+                                                <li>
+                                                    <a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">
+                                                        <span>Speakers</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#supporters">
+                                                        <span>Supporters</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#activities">
+                                                        <span>Activities</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#coffee-juice-bar">
+                                                        <span>Coffee & Juice Bar</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#doctors">
+                                                        <span>Doctors</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#partners">
+                                                        <span>Presenters</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow">Contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="hamburger"><a id="menuLink" href="javascript:void(0);" onclick="myFunction()"><i class="fa fa-bars"></i><div></div></div>
+                        </div>
+                    </div>
+                    <div class="banner" style="width: 100%; background-color: #dcffe7; padding: 5px;">
+                        <div style="margin: 0px auto 0px auto; width: max-content; align-items: baseline;">
+                            <span class="red_dot blink" style="float: left; top: 15px; position: relative; margin-right: 10px;"></span>
+                            <p style="float: left; margin-right: 20px; color: #333;"><b>LIVE NOW!</b></p>
+                            <div class="cta" style="float: right;">
+
+                            </div>
+                            <span style="margin-left: 20px;">
+                                <a id="sign-up-for-free" class="btn btnBlue cta" role="button" tabindex="0" href="https://docs.google.com/forms/d/e/1FAIpQLScAIKxaj8QeJ4I9P4JQtum0NKjnvHzXcSsnecOBOVE-RskdNg/viewform?vc=0&c=0&w=1">Join the fun!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hamburgerMenu" id="hamburgerMenuId" style="text-align: center">
+                    <ul>
+                        <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Program</a></li>
+                        <li class="subNavItem"><a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Speakers</a></li>
+                        <li class="subNavItem"><a href="./partners.html#supporters" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Supporters</a></li>
+                        <li class="subNavItem"><a href="./partners.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
+                        <li class="subNavItem"><a href="./partners.html#doctors" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Doctors</a></li>
+                        <li class="subNavItem"><a href="./partners.html#partners" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Presenters</a></li>
+                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+			<div class="content">
+				<img class="speaker_image" src="./assets/images/headshots/David Rhew.jpg">
+				<h1>David Rhew, MD</h1>
+
+                <p>Dr. David C. Rhew is the Global Chief Medical Officer (CMO) and Vice-President (VP) of Healthcare for Microsoft. He is the Chairman of the Health and Fitness Technology Division for the Consumer Technology Association and serves on CTA’s Board of Industry Leaders. He co-holds six U.S. technology patents that enable authoring, mapping, and integration of clinical decision support into the electronic health record. David is currently an Adjunct Professor at the Stanford University School of Medicine.</p>
+
+                <p>Dr. Rhew received his Bachelors of Science degrees in computer science and cellular molecular biology from the University of Michigan. He received his MD degree from Northwestern University and completed internal medicine residency at Cedars-Sinai Medical Center. He completed fellowships in health services research at Cedars-Sinai and infectious diseases at the University of California, Los Angeles.</p>
+
+                <p>He has served as CMO and VP for Samsung; Senior Vice-President and CMO at Zynx Health Incorporated; clinician/researcher in the Division of Infectious Diseases at the VA Greater Los Angeles Healthcare System; and Associate Clinical Professor of Medicine at UCLA. Dr. Rhew has served on the National Quality Forum’s (NQF) Executive Committee for Consensus Standards and Approval.</p>
+
+			</div>
+		</div>
+	</div>
+</html>

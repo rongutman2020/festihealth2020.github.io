@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Ron Gutman</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/people_detail.css">
+    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="icon" type="image/png" href="./assets/images/favicon.png">
+    <meta property="og:title" content="Partners | Virtual Health Festival | Festihealth" />
+    <meta property="og:description" content="Partners for May 27th 2020!" />
+    <meta property="og:image" content="https://givelovegethelp.org/assets/images/festihealth.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166260385-1"></script>
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+
+        function hideMenu() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          }
+        }
+
+        function toggleMore(self) {
+          var x = document.getElementById("more");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+            document.getElementById("show-more").style.display = "inline"
+          } else {
+            self.style.display = "none"
+            x.style.display = "block";
+          }
+        }
+    </script>
+</head>
+
+<body>
+    <div class="homePage">
+        <div class="pageLayout">
+            <div class="header">
+                <div class="headerBar">
+                    <div class="container">
+                        <div>
+                            <div class="logo">
+                                <a href="/" role="button" tabindex="0" prefetch="false" rel="nofollow">
+                                    <div></div>
+                                </a>
+                            </div>
+                            <div class="links">
+                                <nav>
+                                    <ul>
+                                        <li id="tab_program"><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
+                                        <li class="subNav">
+                                            <span><a href="javascript:void(0);" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">People <img src="./assets/images/down-arrow.svg" style="vertical-align: middle"></a></span>
+                                            <ul>
+                                                <li>
+                                                    <a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">
+                                                        <span>Speakers</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#supporters">
+                                                        <span>Supporters</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#activities">
+                                                        <span>Activities</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#coffee-juice-bar">
+                                                        <span>Coffee & Juice Bar</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#doctors">
+                                                        <span>Doctors</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#partners">
+                                                        <span>Presenters</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow">Contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="hamburger"><a id="menuLink" href="javascript:void(0);" onclick="myFunction()"><i class="fa fa-bars"></i><div></div></div>
+                        </div>
+                    </div>
+                    <div class="banner" style="width: 100%; background-color: #dcffe7; padding: 5px;">
+                        <div style="margin: 0px auto 0px auto; width: max-content; align-items: baseline;">
+                            <span class="red_dot blink" style="float: left; top: 15px; position: relative; margin-right: 10px;"></span>
+                            <p style="float: left; margin-right: 20px; color: #333;"><b>LIVE NOW!</b></p>
+                            <div class="cta" style="float: right;">
+
+                            </div>
+                            <span style="margin-left: 20px;">
+                                <a id="sign-up-for-free" class="btn btnBlue cta" role="button" tabindex="0" href="https://docs.google.com/forms/d/e/1FAIpQLScAIKxaj8QeJ4I9P4JQtum0NKjnvHzXcSsnecOBOVE-RskdNg/viewform?vc=0&c=0&w=1">Join the fun!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hamburgerMenu" id="hamburgerMenuId" style="text-align: center">
+                    <ul>
+                        <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Program</a></li>
+                        <li class="subNavItem"><a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Speakers</a></li>
+                        <li class="subNavItem"><a href="./partners.html#supporters" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Supporters</a></li>
+                        <li class="subNavItem"><a href="./partners.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
+                        <li class="subNavItem"><a href="./partners.html#doctors" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Doctors</a></li>
+                        <li class="subNavItem"><a href="./partners.html#partners" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Presenters</a></li>
+                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+			<div class="content">
+				<img class="speaker_image" src="./assets/images/headshots/RonGutman.jpg">
+				<h1>Ron Gutman</h1>
+
+
+				<p>Ron Gutman is an <a href='https://www.youtube.com/watch?v=rw4aWeL3v5g'>inventor</a>, a serial <a href='https://vimeo.com/216225035'>entrepreneur</a>, and an investor, as well as an <a href='https://hbr.org/2020/10/what-it-takes-to-lead-through-an-era-of-exponential-change'>educator and a writer</a>.</p>
+
+				<p>Gutman has founded and supported multiple successful, <a href='https://www.youtube.com/watch?v=AZSD4e8npAk'>mission-driven companies</a> and non-profit organizations that have <a href='https://www.gsb.stanford.edu/insights/ron-gutman-i-am-really-focused-user'>helped</a> hundreds of <a href='https://www.weforum.org/agenda/authors/ron-gutman'>millions of people</a> around the world live happier healthier lives. As a scholar and advocate of <a href='https://www.youtube.com/watch?v=SlLhwfrNAP0'>positivity</a> and smiling, Gutman wrote and presented a popular <a href='https://www.amazon.com/Smile-Astonishing-Powers-Simple-Kindle-ebook/dp/B006IS4WW0'>TED book</a> and <a href='https://www.ted.com/talks/ron_gutman_the_hidden_power_of_smiling'>talk on the Power of Smiling</a> that was translated to 53 languages and viewed by millions worldwide. As a lecturer at Stanford University, Gutman co-authored a leadership framework—<a href='https://hbr.org/2020/10/what-it-takes-to-lead-through-an-era-of-exponential-change'>Sapient Leadership</a>—to help leaders everywhere navigate the new reality of change that’s exponential, perpetual, and pervasive (<a href='https://www.youtube.com/watch?v=vHbLRf3C9KI'>3-D Change</a>). Gutman is the founder and first CEO of the Interactive Health company <a href='https://www.healthtap.com/'>HealthTap</a>. At HealthTap, he invented and led the development of <a href='https://fortune.com/2015/10/28/healthtap-hospital-operating-system/'>HOPES</a> (the first Health Operating System), <a href='https://fortune.com/2017/01/10/healthtap-dr-ai-launch/'>Dr. A.I.</a> (an artificial intelligence tool for symptom triage to information and care), <a href='https://hitconsultant.net/2017/02/20/healthtap-launches-voice-activated-doctor-amazons-alexa/'>Dr. A.I. on Alexa</a>, <a href='https://techcrunch.com/2016/01/20/mobile-medical-consultation-service-healthtap-launches-disaster-service-healthtap-sos/'>HealthTap SOS</a> (for disaster relief), <a href='https://www.mobihealthnews.com/22707/healthtap-takes-on-app-curation-prescribing'>AppRx</a>, and <a href='https://www.wired.com/2015/03/healthtap-raterx/'>RateRx</a>, <a href='https://www.mobihealthnews.com/26755/healthtap-launches-siri-like-app-hires-webmd-alum'>Talk to Docs</a>, and <a href='https://www.mobihealthnews.com/26755/healthtap-launches-siri-like-app-hires-webmd-alum'>DocNow</a> (the first <a href='https://www.fastcompany.com/3020791/why-go-to-the-doctor-when-you-can-talk-to-a-doctor-in-your-phone'>virtual health app on the Apple Watch</a>), amongst other inventions. He also designed and endowed <a href='https://hitconsultant.net/2018/01/03/healthtap-doctor-consultations/'>HealthTap for Good</a> to offer free online doctor consultations to people in need. Gutman led HealthTap’s acquisition of several companies, including <a href='https://www.forbes.com/sites/tomiogeron/2012/11/29/healthtap-acquires-doctors-business-from-avvo/?sh=f278b394314a'>Avvo</a> (a doctor directory, network, and community that offered physician answers to health questions) and <a href='https://www.bizjournals.com/sanjose/blog/techflash/2016/07/telehealth-platform-healthtap-buys-docphin-to.html'>Docphin</a> (a <a href='https://en.wikipedia.org/wiki/Docphin'>platform that provided access to the latest medical research and news for doctors</a> and other healthcare providers).</p>
+
+				<h2>Life and education</h2>
+
+				<p>Gutman is a serial entrepreneur who studied at Stanford University as a graduate student. While at Stanford, Gutman led a multidisciplinary group of faculty and graduate students to conduct research into personalized health and ways to increase health engagement among people and patients. The research group included faculty and students from departments across Stanford, resulting in the creation of a health and well-being engagement program at the university, <a href='https://bewell.stanford.edu/'>BeWell@Stanford</a>, which continues to today.</p>
+
+				<h2>Career</h2>
+
+				<h3>FestiHealth</h3>
+
+				<p>In May of 2020, amid the COVID-19 crisis and deep need for best virtual health solutions, Gutman founded <a href='https://festihealth.com/'>FestiHealth</a> the <a href='https://rongutman-33441.medium.com/from-struggling-with-a-virus-to-celebrating-life-at-is-virtual-best-bf9a446ba726'>first interactive platform</a> that curates <a href='https://www.youtube.com/channel/UCSZD-ZwSeg8wLBRQvbdgQTg'>inspiring and knowledgeable speakers, live wellness activities</a>, and a virtual expo of cutting-edge health-tech solutions to help organizations and individuals live and foster healthier and happier lives. The first FestiHealth event was on May 27, 2020 and featured conversations and activities with more than 150 healthcare and wellness leaders like <a href='https://www.youtube.com/watch?v=LX6WD-VFG1s'>Dr. David Rhew</a>, <a href='./david_rhew.html'>Chief Medical Officer of Microsoft</a>, and <a href='https://www.youtube.com/watch?v=Au-gw0JIMfE'>Tom Lee</a>, <a href='./tom_lee.html'>Founding CEO of One Medical, Galileo, and ePocrates</a>.</p>
+
+				<h3>Live Long & Flourish (LL&F) Club</h3>
+
+				<p>Gutman founded the <a href='https://llfclub.org/'>Live Long & Flourish Club</a> in 2019 as a not for profit community of people <a href='https://llfclub.org/blog'>on a mission</a> to discover, research, and scientifically validate the most effective health solutions to help everyone flourish by living happier, healthier and longer lives.[27] In February 2020, <a href='https://rongutman-33441.medium.com/all-hands-on-deck-to-protect-against-coronavirus-8fec83fb34ce'>a Live Long & Flourish event at Stanford University anticipated the global spread of the SARS-CoV-2 Coronavirus</a> with featured presentations by Stanford infectious disease specialists Dr. Gary Schoolnik and Dr. David Katzenstein, and a conversation with Karolinska Institute epidemiologist Dr. Ziad Khatib.</p>
+
+				<h3>HealthTap</h3>
+
+				<p>Gutman founded <a href='https://www.healthtap.com/'>HealthTap</a>, a <a href='https://venturebeat.com/2018/08/21/healthtaps-platform-uses-ai-to-make-treatment-recommendations/'>healthcare technology platform</a>, in 2010 and served as CEO until 2018. During his tenure, HealthTap helped hundreds of millions of people access trusted information and care by a network for <a href='https://fortune.com/2016/03/29/healthtap-virtual-care-expansion/'>more than 100,000 doctors</a> across 147 specialties worldwide. HealthTap <a href='https://bits.blogs.nytimes.com/2013/10/05/how-to-save-10000-lives-with-an-app-flatter-doctors/'>received more than 22,800 thank-you notes for saving people’s lives</a>. It also supported <a href='https://www.digitalcommerce360.com/2018/01/19/an-big-insurer-helps-healthtap-crack-the-international-digital-healthcare-marke/'>large insurance companies</a>, <a href='https://fortune.com/2018/01/17/digital-health-bupa-healthtap/'>healthcare providers</a>, and <a href='https://venturebeat.com/2015/09/30/healthtap-unveils-compass-an-enterprise-app-to-help-employees-manage-their-healthcare/'>large employers</a> in the U.S., <a href='https://www.mynewsdesk.com/za/discovery-holdings-ltd/pressreleases/discovery-health-partners-with-healthtap-to-provide-significant-new-services-to-discovery-health-clients-in-south-africa-2158992'>Africa</a>, <a href='https://www.bupa.com/newsroom/news/bupa-and-healthtap-announce-partnership'>Asia, Europe, and Oceania</a>, <a href='https://www.crunchbase.com/organization/healthtap'>and raised more than $88 million</a> in funding from prominent investors. While at HealthTap, the main transformative initiatives that Gutman initiated and led, alongside the HealthTap team included:</p>
+
+					<ul>
+					    <li><a href='https://www.inc.com/zoe-henry/healthtap-app-for-disaster-relief.html'>HealthTap SOS</a>, a disaster-relief service leveraging HealthTap’s doctor network to help people affected by disasters.</li>
+					    <li><a href='https://mhealthspot.com/2016/11/healthtap-cloud-life-easier-health-appservice-developers/'>HealthTap Cloud</a> (powered by the Health Operating System, <a href='https://vimeo.com/177772518'>HOPES</a>) an <a href='https://vimeo.com/216225035'>innovative, unified, and configurable cloud-based platform to manage all aspects of patient care</a> efficiently and cost effectively.</li>
+					    <li><a href='https://fortune.com/2017/01/10/healthtap-dr-ai-launch/'>Dr. A.I.</a>, an artificial-intelligence-driven tool that is trained by doctors. The tool allows people to enter their symptoms and then computes and generates an A.I. condition report, with options to learn about the conditions, talk to a doctor, or be directed to the right level of care.</li>
+					</ul>
+
+				<p>Gutman also led the creation of <a href='https://mhealthspot.com/2018/01/healthtap-good-offers-free-doctor-consultations-underprivileged-populations/'>HealthTap for Good</a>, a <a href='https://healthtechinsider.com/2018/01/25/nonprofit-provides-access-free-medical-services/'>nonprofit initiative</a> to help people in need access doctors in free doctor virtual consultations.[17] Additionally, Gutman envisioned and led HealthTap’s <a href='https://medcitynews.com/2015/06/healthtap-deal-with-quest-diagnostics/'>partnership with Quest Diagnostics</a>, the world’s largest clinical laboratory, making HealthTap the first virtual care platform to offer laboratory testing services. Gutman brought together hundreds of software developers, coders, and architects for <a href='https://www.independent.co.uk/life-style/health-and-families/hackers-use-their-powers-for-health-2073757.html'>the first digital health hackathon</a> he initiated, <a href='https://news.ycombinator.com/item?id=1691301'>Hacking 4 Health</a>, to “promote innovation for new apps and tools with government-shared health data.”</p>
+
+				<h3>Wellsphere</h3>
+
+				<p>In 2006, Gutman founded <a href='https://www.crunchbase.com/organization/wellsphere#section-overview'>Wellsphere</a>, an online consumer health company, where he served as CEO. Wellsphere, an active community of health writers, served more than 100 million people. It was acquired in early 2009.</p>
+
+				<h3>Investment and advisory roles</h3>
+
+				<p>Gutman is an angel investor and advisor to health and technology companies, including Rock Health (an Interactive Health incubator), Stanford Medicine X, Harvard Medical School's SMArt Initiative ("Substitutable Medical Apps, reusable technologies"), KPMG, Doximity, TILE, and Massive Health.</p>
+
+				<h2>Thought leadership, public speaking, and teaching</h2>
+
+				<p>A recognized thought leader in technology, health innovation, and business, Gutman frequently speaks at academic institutions like Stanford University, such as in the <a href='https://ecorner.stanford.edu/contributor/ron-gutman/'>Entrepreneurial Thought Leaders Program</a> and the lecture series <a href='http://med.stanford.edu/hhp/CTL.html'>"Luminaries: Life Lessons from Leaders and Change-makers in the Time of COVID"</a>. He also gives talks in technology and health conferences, such as the <a href='https://www.youtube.com/watch?v=rw4aWeL3v5g'>World Economic Forum</a>, <a href='https://www.ted.com/talks/ron_gutman_the_hidden_power_of_smiling?language=en'>TED</a>, Fortune Brainstorm Tech, CES, SXSW, <a href='https://www.youtube.com/watch?v=bJadUFx9iRY'>Wearable Tech + Digital Health Conference</a>, and Health 2.0).</p>
+
+				<p>Gutman has been featured as an innovator and creator of disruptive health-tech solutions in multiple leading media channels such as:</p>
+
+				<ul>
+					<li>- <a href='https://www.cnbc.com/video/2012/11/29/how-to-get-free-advice-from-doctors.html'>The Disruptors on CNBC</a></li>
+					<li>- <a href='https://www.youtube.com/watch?v=nmuK12mFl5E'>Fox Business</a></li>
+					<li>- <a href='https://www.youtube.com/watch?v=WfRvQ-1Q-QQ'>TechCrunch Davos (at the World Economic Forum)</a></li>
+					<li>- <a href='https://www.pcmag.com/news/know-your-telehealth-options-an-interview-with-healthtaps-ron-gutman'>PC Magazine</a></li>
+					<li>- <a href='https://www.youtube.com/watch?v=Zw-jDZv09GY'>NBC</a></li>
+					<li>- <a href='https://medium.com/@startuphealth/ron-gutman-healthtap-full-b5074a30ada6'>Wearable Tech and Digital Health conference</a> (Startup Health).</li>
+				</ul>
+
+				<p>Since the beginning of the COVID-19 crisis, Gutman has brought together leading experts from academia, medicine, foundations, and industry to first <a href='https://rongutman-33441.medium.com/all-hands-on-deck-to-protect-against-coronavirus-8fec83fb34ce'>predict the spread of the pandemic, then warn about it</a>, then manage it more <a href='https://rongutman-33441.medium.com/how-to-win-over-the-tiny-yet-sometimes-barbaric-covid-19-e41243c6363e'>efficiently</a> and <a href='https://rongutman-33441.medium.com/the-need-for-speed-its-time-to-act-3b60a12fedcc'>effectively</a>, and then <a href='https://rongutman-33441.medium.com/coronavirus-makes-telehealth-a-necessity-not-just-a-convenience-6f11f839ebd6'>use telemedicine and virtual health solutions</a> to help people prevent, cope, and manage the virus. Gutman also co-produced a <a href='https://www.youtube.com/watch?v=mqb50SbI5wk'>Virtual Global Summit on Virtual Health and Mental Wellbeing in a World of Social Distancing</a> with Boma Global, where he also orchestrated a <a href='https://www.youtube.com/watch?v=L9Un6vs9ddA'>global standing ovation for healthcare workers</a> devoted and dedicated to helping patients and saving lives during the pandemic.</p>
+
+				<p>Gutman was also chosen in 2014 as one of the 100 Most Intriguing Entrepreneurs at the Goldman Sachs Builders and Innovators Summit.</p>
+
+				<p>Gutman's writing on health, technology, and smiling has been published in national publications including the <a href='https://hbr.org/2020/10/what-it-takes-to-lead-through-an-era-of-exponential-change'>Harvard Business Review</a>, <a href='https://www.forbes.com/sites/ericsavitz/2011/04/18/the-new-era-of-interactive-health/?sh=5ebbc5c25e3c'>Forbes</a>, <a href='https://fortune.com/2013/09/25/how-mobile-tech-can-transform-health-care/'>Fortune Magazine</a>, and the <a href='https://www.huffpost.com/entry/internet-health_b_872591'>Huffington Post</a>.</p>
+
+				<p>Gutman founded, organized, and hosted the Live Long & Flourish community events and FestiHealth’s virtual health festival.</p>
+
+				<h2>TED</h2>
+
+				<p>Gutman is an active leader in the <a href='https://www.ted.com/talks/ron_gutman_the_hidden_power_of_smiling'>TED</a> community. In 2011, he gave a <a href='https://www.ted.com/talks/ron_gutman_the_hidden_power_of_smiling'>popular TED Talk on smiling</a>, which has been translated into 53 languages. In 2012, he <a href='https://www.amazon.com/Smile-Astonishing-Powers-Simple-Kindle-ebook/dp/B006IS4WW0'>published a TED Book</a>, Smile: The Astonishing Power of a Simple Act. He also serves as the Curator of TEDx <a href='https://www.youtube.com/watch?v=MY_hi3ClOqM'>Silicon Valley</a>.</p>
+
+				<h2>World Economic Forum</h2>
+
+				<p><a href='https://www.youtube.com/watch?v=wnA8OiVGF8U'>The World Economic Forum named Gutman a Technology Pioneer</a> in 2015. He also participated in the <a href='https://www.youtube.com/watch?v=rw4aWeL3v5g'>main Artificial Intelligence panel at the 2017 World Economic Forum in Davos</a>, alongside Satya Nadella, Chief Executive Officer of Microsoft; and Ginni Rometty, Chairman, President, and Chief Executive Officer of the IBM; <a href='https://en.wikipedia.org/wiki/Joi_Ito'>Joichi Ito</a>, Director of the Media Lab at the Massachusetts Institute of Technology; and was hosted by Robert Smith, Chairman and Chief Executive Officer, Vista Equity Partners Corporation. In the summer of 2016, Gutman was invited by Klaus Schwab, the Founder and Executive Chairman of the World Economic Forum, to join <a href='https://www.facebook.com/watch/live/?v=10153690092946479&ref=watch_permalink'>the International Business Counsel of the World Economic Forum in Geneva</a>.</p>
+
+				<h2>Awards and recognition</h2>
+
+				<p>During his graduate studies at Stanford University, Ron collaborated with <a href='https://profiles.stanford.edu/utkan-demirci'>Dr. Utkan Demirci</a> to represent Stanford at a global business plan competitions where leading universities around the world competed on the best business plans commercializing technology developed by graduate students. <a href='https://news.stanford.edu/news/2004/october20/people-1020.html'>Ron and Utkan competed in the final round of that competition in Singapore, where they won together the first prize</a>. Goldman Sachs granted Gutman a 100 Most Intriguing Entrepreneurs award in 2014. Gutman was named a <a href='https://www.youtube.com/watch?v=wnA8OiVGF8U'>World Economic Forum Technology Pioneer</a> in 2015.</p>
+
+
+
+				<p>For more about <a href='https://rongutman.com/'>Ron Gutman</a>, here’s Ron Gutman’s <a href='https://rongutman.com/'>personal home page and biography</a></p>
+			</div>
+		</div>
+	</div>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Don Jones</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/people_detail.css">
+    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="icon" type="image/png" href="./assets/images/favicon.png">
+    <meta property="og:title" content="Partners | Virtual Health Festival | Festihealth" />
+    <meta property="og:description" content="Partners for May 27th 2020!" />
+    <meta property="og:image" content="https://givelovegethelp.org/assets/images/festihealth.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166260385-1"></script>
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+
+        function hideMenu() {
+          var x = document.getElementById("hamburgerMenuId");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          }
+        }
+
+        function toggleMore(self) {
+          var x = document.getElementById("more");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+            document.getElementById("show-more").style.display = "inline"
+          } else {
+            self.style.display = "none"
+            x.style.display = "block";
+          }
+        }
+    </script>
+</head>
+
+<body>
+    <div class="homePage">
+        <div class="pageLayout">
+            <div class="header">
+                <div class="headerBar">
+                    <div class="container">
+                        <div>
+                            <div class="logo">
+                                <a href="/" role="button" tabindex="0" prefetch="false" rel="nofollow">
+                                    <div></div>
+                                </a>
+                            </div>
+                            <div class="links">
+                                <nav>
+                                    <ul>
+                                        <li id="tab_program"><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow">Program</a></li>
+                                        <li class="subNav">
+                                            <span><a href="javascript:void(0);" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">People <img src="./assets/images/down-arrow.svg" style="vertical-align: middle"></a></span>
+                                            <ul>
+                                                <li>
+                                                    <a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="noopener noreferrer nofollow">
+                                                        <span>Speakers</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#supporters">
+                                                        <span>Supporters</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#activities">
+                                                        <span>Activities</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#coffee-juice-bar">
+                                                        <span>Coffee & Juice Bar</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#doctors">
+                                                        <span>Doctors</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a role="button" tabindex="0" href="./partners.html#partners">
+                                                        <span>Presenters</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow">Contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="hamburger"><a id="menuLink" href="javascript:void(0);" onclick="myFunction()"><i class="fa fa-bars"></i><div></div></div>
+                        </div>
+                    </div>
+                    <div class="banner" style="width: 100%; background-color: #dcffe7; padding: 5px;">
+                        <div style="margin: 0px auto 0px auto; width: max-content; align-items: baseline;">
+                            <span class="red_dot blink" style="float: left; top: 15px; position: relative; margin-right: 10px;"></span>
+                            <p style="float: left; margin-right: 20px; color: #333;"><b>LIVE NOW!</b></p>
+                            <div class="cta" style="float: right;">
+
+                            </div>
+                            <span style="margin-left: 20px;">
+                                <a id="sign-up-for-free" class="btn btnBlue cta" role="button" tabindex="0" href="https://docs.google.com/forms/d/e/1FAIpQLScAIKxaj8QeJ4I9P4JQtum0NKjnvHzXcSsnecOBOVE-RskdNg/viewform?vc=0&c=0&w=1">Join the fun!</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hamburgerMenu" id="hamburgerMenuId" style="text-align: center">
+                    <ul>
+                        <li><a href="./agenda.html" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Program</a></li>
+                        <li class="subNavItem"><a href="./partners.html#speakers" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Speakers</a></li>
+                        <li class="subNavItem"><a href="./partners.html#supporters" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Supporters</a></li>
+                        <li class="subNavItem"><a href="./partners.html#activities" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Activities</a></li>
+                        <li class="subNavItem"><a href="./partners.html#doctors" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Doctors</a></li>
+                        <li class="subNavItem"><a href="./partners.html#partners" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Presenters</a></li>
+                        <li><a href="./index.html#contact" role="button" tabindex="0" prefetch="false" rel="nofollow" onclick="hideMenu()">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+			<div class="content">
+				<img class="speaker_image" src="./assets/images/headshots/Don Jones.jpg">
+				<h1>Don Jones</h1>
+
+                <p>Donald Jones is a speaker, an <a href='https://tele911.com/team/'>entrepreneur</a>, <a href='https://www.cardiffoceangroup.com/'>advisor</a> and board member in <a href='https://www.linkedin.com/in/donald-jones-b71b8a2/'>digital medicine, digital therapies, technology enabled health services and virtual clinic businesses</a>. <a href='https://www.linkedin.com/in/donald-jones-b71b8a2/'>He is also an Operating Partner with Takeda Digital Ventures</a>. As Chair of the Cardiff Ocean Group, he is an independent director on the boards of venture capital and private equity backed companies. Jones <a href='https://theconferenceforum.org/disruptive-innovations/donald-jones-chief-digital-officer-at-the-scripps-translational-science-institute-joins-dpharm/'>served as the (SRTI), an Institute within Scripps Research</a>. <a href='https://theconferenceforum.org/conferences/partners-in-drug-delivery/2020-speaking-faculty/donald-jones/'>He co-founded Scripps Digital Medicine, the world’s first digital health clinical trial center and the non-profit West Health Institute, raising over $130 million</a>.</p>
+
+                <p>Jones was Vice President of Global Strategy and Market Development at Qualcomm Life, and is considered a pioneer in the Wireless Health field. Jones also serves on the boards of the <a href='https://en.wikipedia.org/wiki/American_Telemedicine_Association'>American Telemedicine Association</a>, the <a href='http://www.alliancehf.org/'>Alliance Healthcare Foundation</a>, and the Wireless Life Sciences Alliance, which Jones also co-founded. In 2010, Jones was named to <a href='http://www.sanofi.us/l/us/en/index.jsp'>Sanofi-Aventis Pharmaceuticals</a>’ Consumer Products Innovations</p>
+
+                <h3>Education</h3>
+
+                <p>Jones received his bachelor's degree in Biology and Bio-Engineering from the <a href='https://en.wikipedia.org/wiki/University_of_California,_San_Diego'>University of California, San Diego</a>, before going on to earn a Juris Doctor from the University of San Diego and a Master of Business Administration (MBA) from the University of California at Irvine.</p>
+
+                <h3>Career</h3>
+
+                <p>Before joining Qualcomm to head up its Wireless Health initiative, Jones developed and grew various healthcare enterprises for 22 years. He was Chief Operating Officer of MedTrans for 8 years, and grew the company from $4.5 million to $1.2 billion, which then became <a href='https://en.wikipedia.org/wiki/American_Medical_Response'>American Medical Response</a> (AMR), the world's largest emergency medical services provider. While at MedTrans, he founded EMME in 1993. EMME is a leader in pre-hospital medical care and is the largest subscription based health service in Mexico. At HealthCap, a venture capital backed startup that quickly became “the second largest provider of women’s healthcare in the United States,” he was Senior Vice President of Marketing.</p>
+
+                <p>In the early 1980s, Jones developed the $3 billion critical care transportation sector. In 1996, Jones led AMR into emergency physician practice management. His strategy involved the acquisition of <a href='https://en.wikipedia.org/wiki/EMCARE'>EMCARE</a>, the largest US emergency medicine practice. He also developed the launch of the American Medical Pathways for AMR, which won a $600 million healthcare call center contract. Jones also founded <a href='http://www.goldenhour.com/'>Golden Hour Data Systems</a>, an aeromedical IT supplier.
+
+                <p>Jones has been involved in more than 130 acquisitions, including the Medtrans and EMCARE rollups.</p>
+
+                <p>In 2005, Jones founded the Wireless-Life Sciences Alliance (WLSA), the world's first institute focused on accelerating the convergence of the wireless and health care industries. In this role, he started the annual Wireless Health conferences in 2010.</p>
+
+                <p>Jones was also named one of the Top Disruptive Forces in Health IT by Fierce Health IT in 2010.</p>
+
+                <p>At Qualcomm Life, Jones once led the development of wireless technologies and platforms in the health, fitness and life sciences markets.</p>
+
+                <h3>Honors</h3>
+
+                <ul>
+                    <li>1998: Director of the National Highway and Transportation Safety Administration (NHTSA) asks Jones to write the EMS Implementation Guide for the Future</li>
+                    <li>2000: Jones becomes the Journal of Emergency Medical Services’ (JEMS) One of the 20 Most Influential People in EMS</li>
+                    <li>2010: Jones is named a Finalist in the “Biotech, Tech and Defense” division of San Diego's Top Influentials by the San Diego Source</li>
+                    <li>2010: Jones receives the title of a “Disruptive Force in Health IT” from Fierce Health IT for his innovative outlook on the future of healthcare. Fierce Health It quotes Jones as saying, “50 percent of primary care does not have to be delivered face-to-face. Why leave your home? Why leave your desk when you don’t have to?” </li>
+
+			</div>
+		</div>
+	</div>
+</html>
