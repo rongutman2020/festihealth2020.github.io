@@ -1,0 +1,180 @@
+.content {
+	background-image: url("../images/background.svg");
+	background-size: 100%;
+	background-position: 0 0;
+	background-repeat: repeat-y;
+	/*background-image: url("../images/hero-background@svg.svg"), url("../images/sponsors-graphic@svg.svg"), url("../images/Why now-bg@svg.svg");
+	background-size: 100%, 100%, 100%;
+	background-repeat: no-repeat;
+	background-position: 0 0, 0px 1200px, 0px, 2400px*/
+}
+
+.section {
+	max-width: 1000px;
+	overflow: hidden;
+	margin: auto;
+}
+
+.section h3 {
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+.section .speaker_topic {
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+
+.subtitle_time {
+	margin-top: 0px;
+	font-size: 10pt;
+	color: #333;
+	margin-left: 20px;
+}
+
+.cell_time {
+	margin-top: 0px;
+	font-size: 10pt;
+	color: #666;
+}
+
+.speaker_table {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.speaker_cell {
+	float: left;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.speaker_image {
+	width: 200px;
+	height: 200px;
+	border-radius: 8px;
+	border-width: 1px;
+	border-color: #ddd;
+	border-style: solid;
+	object-fit: cover;
+}
+
+.speaker_name {
+	font-size: 13pt;
+	font-weight: 600;
+}
+
+.speaker_title {
+	margin-top: 0px;
+	color: #999;
+	font-size: 11pt;
+}
+
+.speaker_topic {
+	font-size: 11pt;
+	color: #333;
+}
+
+.cell_details {
+	font-size: 11pt;
+}
+
+.sns_link {
+	word-break: normal;
+	overflow-wrap: anywhere;
+}
+
+.center-cropped {
+  width: 200px;
+  height: 200px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.vendor_image {
+	width: 200px;
+	height: 80px;
+	border-radius: 8px;
+	object-fit: contain;
+}
+
+.supporter_image {
+	width: 400px;
+	height: 200px;
+	object-fit: contain;
+}
+
+.supporters {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.speaker_table.supporter_table {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.section_header {
+	padding-top: 20px;
+}
+
+@media only screen and (max-width : 500px) {
+	/*.section {
+		width: 1000px;
+		overflow: hidden;
+		margin: auto;
+	}*/
+	.speaker_cell {
+		float: left;
+		width: 150px;
+		margin-top: 20px;
+		margin-left: 15px;
+		margin-right: 15px;
+		margin-bottom: 20px;
+	}
+
+	.speaker_image {
+		width: 150px;
+		height: 150px;
+		border-radius: 8px;
+		object-fit: cover;
+	}
+
+	.vendor_image {
+	width: 150px;
+	height: 60px;
+	border-radius: 8px;
+	object-fit: contain;
+}
+
+	.section h3 {
+		font-size: 13pt;
+	}
+}
+
+h2 {
+	font-size: 20pt;
+    font-weight: 600;
+}
+
+h3 {
+	font-size: 16pt;
+    font-weight: 600;
+}
+
+body {
+    font-family: noto, sans-serif;
+    margin: 0px;
+}
+
+.content {
+	margin-top: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
